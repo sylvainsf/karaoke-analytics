@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-05-12T22:13:15.5517669-07:00</DateTimeSang>
+    <Title>Hold On</Title>
+    <Artist>Alabama Shakes</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2013\3-15\Alabama Shakes - Hold On.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

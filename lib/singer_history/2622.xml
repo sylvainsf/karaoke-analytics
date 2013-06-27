@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-07-17T21:59:54.8479338-07:00</DateTimeSang>
+    <Title>Suspicious Minds</Title>
+    <Artist>Presley, Elvis</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Supercore 2006\Presley, Elvis - Suspicious Minds.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-07-17T23:10:01.9714451-07:00</DateTimeSang>
+    <Title>Origin Of Love, The</Title>
+    <Artist>Hedwig &amp; The Angry Inch</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 November\11-10\Hedwig &amp; The Angry Inch - Origin Of Love, The.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

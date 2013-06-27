@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-03-12T00:08:39.5306608-07:00</DateTimeSang>
+    <Title>All Out Of Love</Title>
+    <Artist>Air Supply</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011\2011 March\3-9\Air Supply - All Out Of Love.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-05-20T23:42:32.2479185-07:00</DateTimeSang>
+    <Title>Two Weeks</Title>
+    <Artist>Grizzly Bear</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2012\march\3-24\Grizzly Bear - Two Weeks.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

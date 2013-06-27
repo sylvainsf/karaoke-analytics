@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-02-24T23:27:04.9366143-08:00</DateTimeSang>
+    <Title>If I Had A Million Dollars</Title>
+    <Artist>Barenaked Ladies</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Dec-SC\dec sc\december sc convert final-2\Barenaked Ladies - If I Had A Million Dollars.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-02-25T00:46:28.0550425-08:00</DateTimeSang>
+    <Title>Handlebars</Title>
+    <Artist>Flobots</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SBI\Flobots - Handlebars.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-02-25T01:17:14.8536733-08:00</DateTimeSang>
+    <Title>Night And Day</Title>
+    <Artist>Sinatra, Frank</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Sinatra, Frank - Night And Day.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-06-03T00:32:55.6716188-07:00</DateTimeSang>
+    <Title>Heroe (Spanish)</Title>
+    <Artist>Iglesias, Enrique</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\BS\Iglesias, Enrique - Heroe (Spanish).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>3</Count>
+    <DateTimeSang>2013-01-21T01:40:34.8327876-08:00</DateTimeSang>
+    <Title>Gay Bar</Title>
+    <Artist>Electric Six</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED\SUNFLY\Electric Six - Gay Bar.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2012-04-08T23:27:53.5894541-07:00</DateTimeSang>
+    <Title>Paradise By The Dashboard Light</Title>
+    <Artist>Meat Loaf</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\sgb toolbox\Meat Loaf - Paradise By The Dashboard Light.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-09-19T23:08:26.278374-07:00</DateTimeSang>
+    <Title>Rebellion</Title>
+    <Artist>Arcade Fire</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SBI\Arcade Fire - Rebellion.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>4</Count>
+    <DateTimeSang>2012-10-24T23:31:38.7772046-07:00</DateTimeSang>
+    <Title>Molly's Chambers</Title>
+    <Artist>Kings Of Leon</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SUN DL\Kings Of Leon - Molly's Chambers.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-03-18T23:52:54.9208905-07:00</DateTimeSang>
+    <Title>Champs-Tequila-SB04107.zip</Title>
+    <Artist />
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Desktop\3-7\Champs-Tequila-SB04107.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-10-24T22:34:06.803763-07:00</DateTimeSang>
+    <Title>Only</Title>
+    <Artist>Nine Inch Nails</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\Top Hits\Nine Inch Nails - Only.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

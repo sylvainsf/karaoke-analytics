@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-03-09T22:25:28.3986475-08:00</DateTimeSang>
+    <Title>Heaven Is A Place On Earth</Title>
+    <Artist>Carlisle, Belinda</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 March\3.07\Carlisle, Belinda - Heaven Is A Place On Earth.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-03-10T00:04:36.5518624-08:00</DateTimeSang>
+    <Title>Broken Wings</Title>
+    <Artist>Mr. Mister</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011\2011 August\8-28\Mr. Mister - Broken Wings.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

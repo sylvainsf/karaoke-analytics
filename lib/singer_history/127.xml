@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>7</Count>
+    <DateTimeSang>2012-02-10T23:36:34.7924274-08:00</DateTimeSang>
+    <Title>Leaving On A Jet Plane</Title>
+    <Artist>Peter, Paul &amp; Mary</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Peter, Paul &amp; Mary - Leaving On A Jet Plane.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2010-06-25T22:38:31.1026221-07:00</DateTimeSang>
+    <Title>Take On Me</Title>
+    <Artist>A-HA</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 February\2-18\A-HA - Take On Me.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-08-30T23:02:40.6914574-07:00</DateTimeSang>
+    <Title>Give It To Me Baby</Title>
+    <Artist>James, Rick</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 February\2-20\James, Rick - Give It To Me Baby.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>2.0308868501529052</StartPoint>
+    <EndPoint>261.17204892966356</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2013-04-04T23:34:40.3125929-07:00</DateTimeSang>
+    <Title>Bridge Over Troubled Water</Title>
+    <Artist>Simon &amp; Garfunkel</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\STTW\Simon &amp; Garfunkel - Bridge Over Troubled Water.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-04-05T00:58:28.2311734-07:00</DateTimeSang>
+    <Title>My Way</Title>
+    <Artist>Sinatra, Frank</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Sinatra, Frank - My Way.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

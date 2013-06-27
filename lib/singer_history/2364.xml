@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-05-14T01:14:06.4322962-07:00</DateTimeSang>
+    <Title>Jack &amp; Diane</Title>
+    <Artist>Mellencamp, John</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SC\Mellencamp, John - Jack &amp; Diane.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-09-01T01:04:32.3236977-07:00</DateTimeSang>
+    <Title>Careless Whisper</Title>
+    <Artist>Wham!</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\sgb toolbox\Wham! - Careless Whisper.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-12-10T00:32:13.1310781-08:00</DateTimeSang>
+    <Title>Smells Like Teen Spirit</Title>
+    <Artist>Amos, Tori</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011\2011 November\11-17\Amos, Tori - Smells Like Teen Spirit.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

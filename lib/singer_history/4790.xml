@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-05-13T01:48:10.3653081-07:00</DateTimeSang>
+    <Title>Let's Get It On</Title>
+    <Artist>Gaye, Marvin</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2013\1-9\Gaye, Marvin - Let's Get It On.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>8.67406831845888</StartPoint>
+    <EndPoint>254.70218789656536</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

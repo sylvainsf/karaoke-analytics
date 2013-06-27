@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-05-30T00:44:08.0788966-07:00</DateTimeSang>
+    <Title>Strawberry Wine</Title>
+    <Artist>Carter, Deana</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Supercore 2006\Carter, Deana - Strawberry Wine.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-09-22T22:43:42.9712118-07:00</DateTimeSang>
+    <Title>Like We Never Loved At All</Title>
+    <Artist>Hill, Faith</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\Top Hits\Hill, Faith - Like We Never Loved At All.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-09-23T00:17:14.4741714-07:00</DateTimeSang>
+    <Title>S&amp;M</Title>
+    <Artist>Rihanna</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 December\12-31\Rihanna - S&amp;M.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-05-07T00:13:19.8802349-07:00</DateTimeSang>
+    <Title>Fat Bottom Girls</Title>
+    <Artist>Queen</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SC\Queen - Fat Bottom Girls.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-06-22T22:46:55.7110547-07:00</DateTimeSang>
+    <Title>Lovin', Touchin', Squeezin'</Title>
+    <Artist>Journey</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC\Journey - Lovin', Touchin', Squeezin'.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-06-23T00:02:20.1168359-07:00</DateTimeSang>
+    <Title>Long Run, The</Title>
+    <Artist>Eagles</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\BS\Eagles - Long Run, The.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>4.343139653414883</StartPoint>
+    <EndPoint>212.47975535168197</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-08-10T23:36:27.2237218-07:00</DateTimeSang>
+    <Title>Ikea</Title>
+    <Artist>Coulton, Jonathan</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\Coulton\Coulton, Jonathan - Ikea.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-01-06T22:04:20.2798763-08:00</DateTimeSang>
+    <Title>Bring Me To Life</Title>
+    <Artist>Evanescence</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\betterversion\Evanescence - Bring Me To Life.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-01-06T23:42:28.2036463-08:00</DateTimeSang>
+    <Title>Maps</Title>
+    <Artist>Yeah Yeah Yeahs, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SBI\Yeah Yeah Yeahs, The - Maps.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-02-10T21:52:19.5366987-08:00</DateTimeSang>
+    <Title>Welcome Home</Title>
+    <Artist>Coheed &amp; Cambria</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011\2011 February\2-16\Coheed &amp; Cambria - Welcome Home.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

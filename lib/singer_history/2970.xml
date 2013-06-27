@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2011-11-25T21:48:27.9132766-08:00</DateTimeSang>
+    <Title>Rose, The</Title>
+    <Artist>Midler, Bette</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\sgb toolbox\Midler, Bette - Rose, The.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2011-11-11T22:14:45.9636654-08:00</DateTimeSang>
+    <Title>It's Too Late</Title>
+    <Artist>King, Carole</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\King, Carole - It's Too Late.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-11-25T23:17:21.825359-08:00</DateTimeSang>
+    <Title>With A Little Help From My Friends</Title>
+    <Artist>Beatles, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011\2011 August\8-29\Beatles, The - With A Little Help From My Friends.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-07-04T00:28:27.8605332-07:00</DateTimeSang>
+    <Title>I Heard It Through The Grapevine</Title>
+    <Artist>Gaye, Marvin</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC\Gaye, Marvin - I Heard It Through The Grapevine.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-07-04T01:31:57.8884543-07:00</DateTimeSang>
+    <Title>Wanted Dead Or Alive</Title>
+    <Artist>Bon Jovi</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC\Bon Jovi - Wanted Dead Or Alive.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>3.874250764525994</StartPoint>
+    <EndPoint>307.03437308868507</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

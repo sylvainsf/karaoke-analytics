@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-10-07T01:14:27.4863421-07:00</DateTimeSang>
+    <Title>Losing My Religion</Title>
+    <Artist>R.E.M</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC new adds\R.E.M - Losing My Religion.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2011-01-10T01:13:03.0787731-08:00</DateTimeSang>
+    <Title>Signs</Title>
+    <Artist>Five Man Electrical Band</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Dec-SC\dec sc\december sc convert final-1\Five Man Electrical Band - Signs.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2011-12-30T23:40:27.4871102-08:00</DateTimeSang>
+    <Title>Black Velvet</Title>
+    <Artist>Myles, Alannah</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC Foundations\Myles, Alannah - Black Velvet.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-08-25T22:20:04.7534567-07:00</DateTimeSang>
+    <Title>Rooster</Title>
+    <Artist>Alice In Chains</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SBI\Alice In Chains - Rooster.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-08-25T23:38:09.4684071-07:00</DateTimeSang>
+    <Title>Man In The Box</Title>
+    <Artist>Alice In Chains</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\random crap\Alice In Chains - Man In The Box.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-08-26T01:16:25.3026295-07:00</DateTimeSang>
+    <Title>It Ain't Over 'Til It's Over</Title>
+    <Artist>Kravitz, Lenny</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC new adds\Kravitz, Lenny - It Ain't Over 'Til It's Over.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>6.4171753104911691</StartPoint>
+    <EndPoint>258.61216501279415</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

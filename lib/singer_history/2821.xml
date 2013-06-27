@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2012-03-05T00:56:49.4550486-08:00</DateTimeSang>
+    <Title>Bring Me To Life</Title>
+    <Artist>Evanescence</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SIN\Evanescence - Bring Me To Life.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2012-03-05T01:51:37.3681065-08:00</DateTimeSang>
+    <Title>Say It Ain't So</Title>
+    <Artist>Weezer</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SC\Weezer - Say It Ain't So.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>6.7213047910295618</StartPoint>
+    <EndPoint>264.23129459734969</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

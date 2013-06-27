@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-02-21T21:40:50.2809732-08:00</DateTimeSang>
+    <Title>Call Me Maybe</Title>
+    <Artist>Jepsen, Carly Rae</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2012\may\5-25\Jepsen, Carly Rae - Call Me Maybe.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

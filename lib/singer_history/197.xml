@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2009-12-31T23:13:53.5745861-08:00</DateTimeSang>
+    <Title>Rock This Town</Title>
+    <Artist>Stray Cats</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\sgb toolbox\Stray Cats - Rock This Town.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-01-01T01:11:10.8340943-08:00</DateTimeSang>
+    <Title>Baby One More Time</Title>
+    <Artist>Spears, Britney</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\sgb toolbox\Spears, Britney - Baby One More Time.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-01-01T01:30:59.5300838-08:00</DateTimeSang>
+    <Title>Beverly Hills</Title>
+    <Artist>Weezer</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2008 april-may\karaoke 5.28\Weezer - Beverly Hills.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

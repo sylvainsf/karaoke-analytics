@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-03-20T22:44:29.8282011-07:00</DateTimeSang>
+    <Title>Day In The Life, A</Title>
+    <Artist>Beatles, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 March\03-31\Beatles, The - Day In The Life, A.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-03-20T23:33:10.641262-07:00</DateTimeSang>
+    <Title>One Piece At A Time</Title>
+    <Artist>Cash, Johnny</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Dec-SC\December SC Country\Cash, Johnny - One Piece At A Time.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-03-21T00:07:22.942647-07:00</DateTimeSang>
+    <Title>Angel</Title>
+    <Artist>Hendrix, Jimi</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\BS\Hendrix, Jimi - Angel.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-06-18T23:24:04.6443386-07:00</DateTimeSang>
+    <Title>U Got It Bad</Title>
+    <Artist>Usher</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Usher - U Got It Bad.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-06-19T01:06:29.6038102-07:00</DateTimeSang>
+    <Title>I Want It That Way</Title>
+    <Artist>Backstreet Boys</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Backstreet Boys - I Want It That Way.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

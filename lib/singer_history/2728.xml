@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-08-12T23:23:04.9592987-07:00</DateTimeSang>
+    <Title>Favor House Atlantic, A</Title>
+    <Artist>Coheed &amp; Cambria</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011 April\04-10\Coheed &amp; Cambria - Favor House Atlantic, A.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-01-28T00:31:48.1471927-08:00</DateTimeSang>
+    <Title>1979</Title>
+    <Artist>Smashing Pumpkins</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Smashing Pumpkins - 1979.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-09-03T01:00:13.4690747-07:00</DateTimeSang>
+    <Title>Sexy And I Know It</Title>
+    <Artist>LMFAO</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011\2011 October\10-22\LMFAO - Sexy And I Know It.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-06-17T00:29:03.7236058-07:00</DateTimeSang>
+    <Title>We Gotta Get Out Of This Place</Title>
+    <Artist>Animals, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011\2011 April\04-10\Animals, The - We Gotta Get Out Of This Place.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-06-17T01:22:53.5823432-07:00</DateTimeSang>
+    <Title>Dream On</Title>
+    <Artist>Aerosmith</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\Radio Starz\Aerosmith - Dream On.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-06-17T01:52:53.9893206-07:00</DateTimeSang>
+    <Title>Shoot To Thrill</Title>
+    <Artist>AC-DC</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC\headbangers hits\AC-DC - Shoot To Thrill.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>8.16426387068589</StartPoint>
+    <EndPoint>325.03975535168195</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-12-23T22:48:45.6113225-08:00</DateTimeSang>
+    <Title>Lump</Title>
+    <Artist>Presidents Of The United States Of America, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SUN\Presidents Of The United States Of America, The - Lump.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-12-24T00:10:06.2744804-08:00</DateTimeSang>
+    <Title>Ol' Dirty BastardKelis - Got Your Money - BKK.zip</Title>
+    <Artist />
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Desktop\HOMEBREW\Keith Karaoke Gold\Ol' Dirty BastardKelis - Got Your Money - BKK.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

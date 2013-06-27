@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-08-19T23:42:07.4361344-07:00</DateTimeSang>
+    <Title>Call Me Maybe</Title>
+    <Artist>Jepsen, Carly Rae</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2012\may\5-25\Jepsen, Carly Rae - Call Me Maybe.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-09-16T22:59:01.8147595-07:00</DateTimeSang>
+    <Title>With A Little Help From My Friends</Title>
+    <Artist>Cocker, Joe</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC Foundations\Cocker, Joe - With A Little Help From My Friends.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-02-17T21:26:06.1290931-08:00</DateTimeSang>
+    <Title>Sweet Caroline (Neil Diamond)</Title>
+    <Artist>Me First &amp; The Gimme Gimmes</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011\2011 March\3-9\Me First &amp; The Gimme Gimmes - Sweet Caroline (Neil Diamond).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-02-17T22:49:21.4748105-08:00</DateTimeSang>
+    <Title>Such Great Heights</Title>
+    <Artist>Postal Service, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011\2011 November\11-4\Postal Service, The - Such Great Heights.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-01-30T22:18:27.6849749-08:00</DateTimeSang>
+    <Title>Monkey Wrench</Title>
+    <Artist>Foo Fighters</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Foo Fighters - Monkey Wrench.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-01-30T23:25:36.7354234-08:00</DateTimeSang>
+    <Title>Epic</Title>
+    <Artist>Faith No More</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC new adds\Faith No More - Epic.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-01-31T00:17:42.7422208-08:00</DateTimeSang>
+    <Title>Rose Tint My World, Floor Show</Title>
+    <Artist>Rocky Horror Picture Show</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED\SC\Rocky Horror Picture Show - Rose Tint My World, Floor Show.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-01-31T01:04:26.7486007-08:00</DateTimeSang>
+    <Title>No Rain</Title>
+    <Artist>Blind Melon</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Dec-SC\dec sc\december sc convert final-1\Blind Melon - No Rain.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2011-01-31T01:45:14.6696138-08:00</DateTimeSang>
+    <Title>Tonight, Tonight</Title>
+    <Artist>Smashing Pumpkins</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SC\Smashing Pumpkins - Tonight, Tonight.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

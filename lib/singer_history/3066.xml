@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-11-14T00:53:29.9540815-08:00</DateTimeSang>
+    <Title>Build Me Up Buttercup</Title>
+    <Artist>Foundations, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\sgb\Foundations, The - Build Me Up Buttercup.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-11-14T01:53:17.5342794-08:00</DateTimeSang>
+    <Title>Fly Me To The Moon (Uptempo Version)</Title>
+    <Artist>Sinatra, Frank</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\sgb\Sinatra, Frank - Fly Me To The Moon (Uptempo Version).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-07-10T23:09:11.7682538-07:00</DateTimeSang>
+    <Title>Proud Mary</Title>
+    <Artist>Creedence Clearwater Revival</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Creedence Clearwater Revival - Proud Mary.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-07-11T00:44:32.4124559-07:00</DateTimeSang>
+    <Title>My Life</Title>
+    <Artist>Joel, Billy</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC\Joel, Billy - My Life.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>5.9413047910295615</StartPoint>
+    <EndPoint>290.20988786952086</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

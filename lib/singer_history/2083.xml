@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-06-17T01:14:14.6268765-07:00</DateTimeSang>
+    <Title>Barracuda</Title>
+    <Artist>Heart</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\sgb\Heart - Barracuda.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-07-24T22:35:28.9325214-07:00</DateTimeSang>
+    <Title>Its The End Of The World As We Know It (And I Feel Fine)</Title>
+    <Artist>R.E.M.</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED\VENUE\R.E.M. - Its The End Of The World As We Know It (And I Feel Fine).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-08-19T00:09:22.9347847-07:00</DateTimeSang>
+    <Title>Sweet Child O' Mine</Title>
+    <Artist>Guns 'N' Roses</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC\headbangers hits\Guns 'N' Roses - Sweet Child O' Mine.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-12-14T22:09:31.8098159-08:00</DateTimeSang>
+    <Title>I Will Survive</Title>
+    <Artist>Gaynor, Gloria</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC\Gaynor, Gloria - I Will Survive.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-12-22T23:39:02.5232841-08:00</DateTimeSang>
+    <Title>Back To Black</Title>
+    <Artist>Winehouse, Amy</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SC\Winehouse, Amy - Back To Black.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-12-23T00:45:54.8297749-08:00</DateTimeSang>
+    <Title>Rent-Take Me Or Leave Me</Title>
+    <Artist>Broadway-Musicals</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SBI\Broadway-Musicals - Rent-Take Me Or Leave Me.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

@@ -1,0 +1,867 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>3</Count>
+    <DateTimeSang>2010-10-03T23:33:41.955176-07:00</DateTimeSang>
+    <Title>Johnny B. Goode</Title>
+    <Artist>Berry, Chuck</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\sgb\Berry, Chuck - Johnny B. Goode.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-05-10T01:03:28.4834717-07:00</DateTimeSang>
+    <Title>Fast As You Can</Title>
+    <Artist>Apple, Fiona</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC new adds\Apple, Fiona - Fast As You Can.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>3</Count>
+    <DateTimeSang>2010-12-04T01:03:01.1248391-08:00</DateTimeSang>
+    <Title>Take Your Mama</Title>
+    <Artist>Scissor Sisters</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\ZM\Scissor Sisters - Take Your Mama.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>10.037940876656473</StartPoint>
+    <EndPoint>279.75304791029566</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-06-06T23:17:08.6363885-07:00</DateTimeSang>
+    <Title>Fat Lip</Title>
+    <Artist>Sum 41</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\sgb\Sum 41 - Fat Lip.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>9</Count>
+    <DateTimeSang>2013-06-13T21:43:12.9484234-07:00</DateTimeSang>
+    <Title>Put A Lid On It</Title>
+    <Artist>Squirrel Nut Zippers</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\sgb\Squirrel Nut Zippers - Put A Lid On It.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-07-04T23:00:04.4824989-07:00</DateTimeSang>
+    <Title>Whole Lotta Shakin' Goin' On</Title>
+    <Artist>Lewis, Jerry Lee</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC\Lewis, Jerry Lee - Whole Lotta Shakin' Goin' On.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-07-05T01:27:10.3993125-07:00</DateTimeSang>
+    <Title>Ballroom Blitz</Title>
+    <Artist>Sweet</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SC\Sweet - Ballroom Blitz.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-08-15T22:28:06.8459802-07:00</DateTimeSang>
+    <Title>Runaround Sue</Title>
+    <Artist>Dion &amp; The Belmonts</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\sgb toolbox\Dion &amp; The Belmonts - Runaround Sue.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2010-10-18T01:08:22.6791113-07:00</DateTimeSang>
+    <Title>Boogie Woogie Bugle Boy</Title>
+    <Artist>Andrews Sisters, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC Foundations\Andrews Sisters, The - Boogie Woogie Bugle Boy.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2010-09-19T22:43:28.0306792-07:00</DateTimeSang>
+    <Title>Harder To Breathe</Title>
+    <Artist>Maroon 5</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SUN\Maroon 5 - Harder To Breathe.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-09-26T21:30:29.209327-07:00</DateTimeSang>
+    <Title>I Don't Feel Like Dancin'</Title>
+    <Artist>Scissor Sisters</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Panorama 2006\Scissor Sisters - I Don't Feel Like Dancin'.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>3</Count>
+    <DateTimeSang>2010-10-10T21:40:02.820764-07:00</DateTimeSang>
+    <Title>V_V_Brown_Shark_In_The_Water_79443.zip</Title>
+    <Artist />
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Desktop\9.26\V_V_Brown_Shark_In_The_Water_79443.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-10-11T00:39:25.202337-07:00</DateTimeSang>
+    <Title>Pumpkin Soup</Title>
+    <Artist>Nash, Kate</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\MRE DL\Nash, Kate - Pumpkin Soup.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-10-17T21:44:08.5592157-07:00</DateTimeSang>
+    <Title>Yeah Yeah Yeah</Title>
+    <Artist>New Politics</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 September\9.09\New Politics - Yeah Yeah Yeah.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-10-17T22:38:48.3228074-07:00</DateTimeSang>
+    <Title>Cold Shoulder</Title>
+    <Artist>Adele</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\MRE\Adele - Cold Shoulder.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-10-17T23:53:25.0618623-07:00</DateTimeSang>
+    <Title>Magic Man</Title>
+    <Artist>Heart</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Heart - Magic Man.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-10-31T22:01:51.9963074-07:00</DateTimeSang>
+    <Title>Thunder Kiss '65</Title>
+    <Artist>White Zombie</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC new adds\White Zombie - Thunder Kiss '65.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-10-31T23:48:45.8891611-07:00</DateTimeSang>
+    <Title>Jaded</Title>
+    <Artist>Aerosmith</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\Radio Starz\Aerosmith - Jaded.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-11-01T01:08:56.8763338-07:00</DateTimeSang>
+    <Title>Speechless</Title>
+    <Artist>Lady GaGa</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 February\02-04\Lady GaGa - Speechless.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-11-01T01:34:44.0878293-07:00</DateTimeSang>
+    <Title>Spiderwebs</Title>
+    <Artist>No Doubt</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\VENUE\No Doubt - Spiderwebs.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-11-21T23:16:28.8362878-08:00</DateTimeSang>
+    <Title>Pearl_Jam_-_The_Fixer_-_MW917-12.ZIP</Title>
+    <Artist />
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Desktop\11-11\Pearl_Jam_-_The_Fixer_-_MW917-12.ZIP</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-11-22T00:00:00.4356627-08:00</DateTimeSang>
+    <Title>Rosemary_Clooney-Mambo_Italiano.zip</Title>
+    <Artist />
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Desktop\11-11\Rosemary_Clooney-Mambo_Italiano.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2012-07-21T00:57:36.0291731-07:00</DateTimeSang>
+    <Title>Valerie (Feat. Amy Winehouse)</Title>
+    <Artist>Ronson, Mark</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\ZOOM\Ronson, Mark - Valerie (Feat. Amy Winehouse).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2010-12-16T22:03:30.7042819-08:00</DateTimeSang>
+    <Title>My Favourite Game</Title>
+    <Artist>Cardigans, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC new adds\Cardigans, The - My Favourite Game.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-12-16T22:29:54.0618448-08:00</DateTimeSang>
+    <Title>Grease-Grease Lightning</Title>
+    <Artist>Broadway-Musicals</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 2\SGB\Broadway-Musicals - Grease-Grease Lightning.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-12-16T22:50:58.9791939-08:00</DateTimeSang>
+    <Title>Song 2</Title>
+    <Artist>Blur</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Dec-SC\dec sc\december sc convert final-1\Blur - Song 2.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-12-16T23:30:27.8116834-08:00</DateTimeSang>
+    <Title>TV On The Radio - Wolf Like Me - SofKg - KDick.zip</Title>
+    <Artist />
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Desktop\HOMEBREW\Keith Karaoke Gold\TV On The Radio - Wolf Like Me - SofKg - KDick.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2010-12-17T01:15:50.0512948-08:00</DateTimeSang>
+    <Title>Feel Good Inc. (Feat. De La Soul)</Title>
+    <Artist>Gorillaz</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\Top Hits\Gorillaz - Feel Good Inc. (Feat. De La Soul).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-12-31T01:02:18.5138459-08:00</DateTimeSang>
+    <Title>Rihanna - Only Girl (In The World).zip</Title>
+    <Artist />
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Desktop\12-01\Rihanna - Only Girl (In The World).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>8.0658453473132372</StartPoint>
+    <EndPoint>244.66397553516819</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-12-31T23:38:10.6060156-08:00</DateTimeSang>
+    <Title>Flourescent Adolescent</Title>
+    <Artist>Arctic Monkeys</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SUN\Arctic Monkeys - Flourescent Adolescent.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-01-01T01:20:35.526485-08:00</DateTimeSang>
+    <Title>Steady, As She Goes</Title>
+    <Artist>Raconteurs, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Panorama 2006\Raconteurs, The - Steady, As She Goes.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-01-07T23:04:49.4015041-08:00</DateTimeSang>
+    <Title>Crazy Train</Title>
+    <Artist>Osbourne, Ozzy</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC\headbangers hits\Osbourne, Ozzy - Crazy Train.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-01-08T00:23:17.7298051-08:00</DateTimeSang>
+    <Title>Black Keys, The - Tighten Up.zip</Title>
+    <Artist />
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Desktop\12-01\Black Keys, The - Tighten Up.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-01-13T23:56:06.1984614-08:00</DateTimeSang>
+    <Title>Mambo Italiano</Title>
+    <Artist>Clooney, Rosemary</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 November\11-27\Clooney, Rosemary - Mambo Italiano.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-01-20T22:09:53.397915-08:00</DateTimeSang>
+    <Title>Animal</Title>
+    <Artist>Neon Trees</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011 January\1-01\Neon Trees - Animal.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-01-20T23:02:21.7669914-08:00</DateTimeSang>
+    <Title>Bennie And The Jets</Title>
+    <Artist>John, Elton</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\John, Elton - Bennie And The Jets.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-01-21T00:43:58.4947043-08:00</DateTimeSang>
+    <Title>Boys Boys Boys</Title>
+    <Artist>Lady GaGa</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 February\02-04\Lady GaGa - Boys Boys Boys.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>209.03769664440702</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-02-13T23:42:34.1040369-08:00</DateTimeSang>
+    <Title>Sweet Dreams</Title>
+    <Artist>Beyonce</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED\ZOOM\Beyonce - Sweet Dreams.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-02-18T00:36:40.5354923-08:00</DateTimeSang>
+    <Title>All I Ever Wanted</Title>
+    <Artist>Clarkson, Kelly</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 July\07-01\Clarkson, Kelly - All I Ever Wanted.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-03-05T00:09:18.0440198-08:00</DateTimeSang>
+    <Title>Sugar Daddy</Title>
+    <Artist>Hedwig &amp; The Angry Inch</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011 February\2-11\Hedwig &amp; The Angry Inch - Sugar Daddy.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-03-10T21:51:27.024893-08:00</DateTimeSang>
+    <Title>Sexx Laws</Title>
+    <Artist>Beck</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED\BUYKARAOKEDOWNLOAD\Beck - Sexx Laws.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-03-10T22:47:40.7138569-08:00</DateTimeSang>
+    <Title>22</Title>
+    <Artist>Allen, Lily</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\ZOOM DL\Allen, Lily - 22.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-03-11T00:17:00.9894472-08:00</DateTimeSang>
+    <Title>Pretender, The</Title>
+    <Artist>Foo Fighters</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SUN\Foo Fighters - Pretender, The.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>9.2995107033639144</StartPoint>
+    <EndPoint>276.77115188583082</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2012-07-25T01:38:00.5923506-07:00</DateTimeSang>
+    <Title>Jackson (Feat. June Carter Cash)</Title>
+    <Artist>Cash, Johnny</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Cash, Johnny - Jackson (Feat. June Carter Cash).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-03-26T00:13:46.8113682-07:00</DateTimeSang>
+    <Title>It's Oh So Quiet</Title>
+    <Artist>Bjork</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SBI\Bjork - It's Oh So Quiet.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>7</Count>
+    <DateTimeSang>2012-08-31T22:52:28.4353087-07:00</DateTimeSang>
+    <Title>Home</Title>
+    <Artist>Sharpe, Edward &amp; The Magnetic Zeros</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011\2011 February\2-16\Sharpe, Edward &amp; The Magnetic Zeros - Home.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>6</Count>
+    <DateTimeSang>2012-10-16T22:29:18.1215515-07:00</DateTimeSang>
+    <Title>Like A Stone</Title>
+    <Artist>Audioslave</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 November\11-27\Audioslave - Like A Stone.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-08-22T00:59:59.733449-07:00</DateTimeSang>
+    <Title>Never Tear Us Apart</Title>
+    <Artist>INXS</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SUN DL\INXS - Never Tear Us Apart.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2012-10-30T22:06:49.6795509-07:00</DateTimeSang>
+    <Title>Days Of Phoenix</Title>
+    <Artist>A.F.I.</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED\SBI\A.F.I. - Days Of Phoenix.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>3</Count>
+    <DateTimeSang>2012-10-17T00:18:23.4729242-07:00</DateTimeSang>
+    <Title>Road To Nowhere</Title>
+    <Artist>Talking Heads</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011\2011 January\1-19\Talking Heads - Road To Nowhere.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2013-02-05T23:36:54.9335437-08:00</DateTimeSang>
+    <Title>Maybellene</Title>
+    <Artist>Berry, Chuck</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\sgb\Berry, Chuck - Maybellene.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-07-05T22:40:32.28291-07:00</DateTimeSang>
+    <Title>Treat Me Like Your Mother</Title>
+    <Artist>Dead Weather, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2012\april\4-19\Dead Weather, The - Treat Me Like Your Mother.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-07-06T00:56:04.8740676-07:00</DateTimeSang>
+    <Title>Wolf Like Me</Title>
+    <Artist>TV On The Radio</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011\2011 November\11-4\TV On The Radio - Wolf Like Me.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2012-07-14T00:41:16.304575-07:00</DateTimeSang>
+    <Title>Lonely Boy</Title>
+    <Artist>Black Keys, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011\2011 December\12-18\Black Keys, The - Lonely Boy.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>7.3623357742689324</StartPoint>
+    <EndPoint>202.94438612550016</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-07-16T00:54:20.2461955-07:00</DateTimeSang>
+    <Title>Jack &amp; Diane</Title>
+    <Artist>Mellencamp, John</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Dec-SC\dec sc\december sc convert final-1\Mellencamp, John - Jack &amp; Diane.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-07-24T22:22:32.5015422-07:00</DateTimeSang>
+    <Title>Make A Circuit With Me</Title>
+    <Artist>Polecats, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011\2011 August\8-29\Polecats, The - Make A Circuit With Me.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-07-24T23:21:34.9831606-07:00</DateTimeSang>
+    <Title>Sail</Title>
+    <Artist>AWOLNATION</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2012\march\3-24\AWOLNATION - Sail.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-07-25T00:39:21.0110421-07:00</DateTimeSang>
+    <Title>Movies</Title>
+    <Artist>Alien Ant Farm</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC new adds\Alien Ant Farm - Movies.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-08-07T23:50:17.3953768-07:00</DateTimeSang>
+    <Title>Mack The Knife</Title>
+    <Artist>Darin, Bobby</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Dec-SC\dec sc\december sc convert final-2\Darin, Bobby - Mack The Knife.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-08-08T00:34:53.5384434-07:00</DateTimeSang>
+    <Title>Stupid Girl</Title>
+    <Artist>Garbage</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SC\Garbage - Stupid Girl.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-09-01T00:04:37.8609377-07:00</DateTimeSang>
+    <Title>Is This Love</Title>
+    <Artist>Marley, Bob</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 March\3.07\Marley, Bob - Is This Love.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-09-03T01:14:52.3023411-07:00</DateTimeSang>
+    <Title>Do You Wanna Touch Me (Oh Yeah)</Title>
+    <Artist>Glitter, Gary</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011\2011 May\5-05\Glitter, Gary - Do You Wanna Touch Me (Oh Yeah).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-10-16T23:29:05.6477462-07:00</DateTimeSang>
+    <Title>Crocodile Rock</Title>
+    <Artist>John, Elton</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC\John, Elton - Crocodile Rock.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-10-30T21:29:30.5884822-07:00</DateTimeSang>
+    <Title>Misfits - Attitude - NE.zip</Title>
+    <Artist />
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Desktop\9-24\Misfits - Attitude - NE.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-10-30T22:55:41.9842691-07:00</DateTimeSang>
+    <Title>Paper Planes</Title>
+    <Artist>M.I.A.</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SBI\M.I.A. - Paper Planes.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2012-10-31T00:19:49.5899756-07:00</DateTimeSang>
+    <Title>Chris_Brown_Don_t_Wake_Me_Up_146922.zip</Title>
+    <Artist />
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Desktop\9-24\Chris_Brown_Don_t_Wake_Me_Up_146922.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-02-05T22:12:11.0067598-08:00</DateTimeSang>
+    <Title>Sara_Bareilles_Gonna_Get_Over_You_144996.zip</Title>
+    <Artist />
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Desktop\1-26\Sara_Bareilles_Gonna_Get_Over_You_144996.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-02-05T22:48:38.4718756-08:00</DateTimeSang>
+    <Title>Put Your Records On</Title>
+    <Artist>Rae, Corinne Bailey</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 2\SC\Rae, Corinne Bailey - Put Your Records On.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-02-28T22:14:26.3427535-08:00</DateTimeSang>
+    <Title>All That She Wants</Title>
+    <Artist>Ace Of Base</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC new adds\Ace Of Base - All That She Wants.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2013-04-20T23:53:47.7457548-07:00</DateTimeSang>
+    <Title>Little Talks</Title>
+    <Artist>Of Monsters And Men</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2012\august\8-5\Of Monsters And Men - Little Talks.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2013-04-20T22:42:59.2517549-07:00</DateTimeSang>
+    <Title>Chelsea Dagger</Title>
+    <Artist>Fratellis, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\MF\Fratellis, The - Chelsea Dagger.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-06-13T23:11:53.12272-07:00</DateTimeSang>
+    <Title>Boogie Woogie Bugle Boy</Title>
+    <Artist>Midler, Bette</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Midler, Bette - Boogie Woogie Bugle Boy.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

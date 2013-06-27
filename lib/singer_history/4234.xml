@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>9</Count>
+    <DateTimeSang>2013-06-18T23:07:40.7930655-07:00</DateTimeSang>
+    <Title>Party Rock Anthem (Feat. Lauren Bennett And Goonrock)</Title>
+    <Artist>LMFAO</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011\2011 June\6-10\LMFAO - Party Rock Anthem (Feat. Lauren Bennett And Goonrock).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-10-18T00:37:14.2778564-07:00</DateTimeSang>
+    <Title>Time, The (Dirty Bit)</Title>
+    <Artist>Black Eyed Peas</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011\2011 March\3-9\Black Eyed Peas - Time, The (Dirty Bit).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>10</Count>
+    <DateTimeSang>2013-06-18T22:22:52.8793256-07:00</DateTimeSang>
+    <Title>Gangnam Style (Phonetic)</Title>
+    <Artist>Psy</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2012\september\9-23\Psy - Gangnam Style (Phonetic).wmv</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2013-06-19T00:29:35.0751464-07:00</DateTimeSang>
+    <Title>Sugarhill Gang - Rappers Delight.zip</Title>
+    <Artist />
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Desktop\6-16\Sugarhill Gang - Rappers Delight.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

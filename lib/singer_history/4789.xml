@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-05-13T00:07:59.8885285-07:00</DateTimeSang>
+    <Title>Kenny_Chesney_Don_t_Happen_Twice_142264.zip</Title>
+    <Artist />
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Desktop\5-9\Kenny_Chesney_Don_t_Happen_Twice_142264.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-05-13T01:44:48.0577368-07:00</DateTimeSang>
+    <Title>Good Directions</Title>
+    <Artist>Currington, Billy</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2013\3-15\Currington, Billy - Good Directions.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0.97675840978593276</StartPoint>
+    <EndPoint>207.07278287461776</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

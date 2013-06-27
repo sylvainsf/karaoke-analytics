@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>4</Count>
+    <DateTimeSang>2012-01-20T00:57:58.5958733-08:00</DateTimeSang>
+    <Title>Everybody Wants To Rule The World</Title>
+    <Artist>Tears For Fears</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SC\Tears For Fears - Everybody Wants To Rule The World.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-01-06T00:21:07.1041582-08:00</DateTimeSang>
+    <Title>Ain't No Rest For The Wicked</Title>
+    <Artist>Cage The Elephant</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SUN\Cage The Elephant - Ain't No Rest For The Wicked.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2012-01-06T16:23:07.1780174-08:00</DateTimeSang>
+    <Title>Poison</Title>
+    <Artist>Bel Biv Devoe</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SBI\Bel Biv Devoe - Poison.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>6.7633781993939275</StartPoint>
+    <EndPoint>270.24065504853627</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-05-28T00:53:50.9705949-07:00</DateTimeSang>
+    <Title>Fat Lip</Title>
+    <Artist>Sum 41</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\sgb\Sum 41 - Fat Lip.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-05-28T01:04:03.8996524-07:00</DateTimeSang>
+    <Title>Wild Thing</Title>
+    <Artist>Troggs, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC\Troggs, The - Wild Thing.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

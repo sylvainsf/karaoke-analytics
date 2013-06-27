@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-01-11T00:57:19.0510531-08:00</DateTimeSang>
+    <Title>Beastie Boys, The - Brass Monkey-NEW</Title>
+    <Artist />
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Desktop\karaoke fix\dec sc\december sc convert final 3\Beastie Boys, The - Brass Monkey-NEW.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-12-11T22:15:23.8473646-08:00</DateTimeSang>
+    <Title>Scenes From An Italian Restaurant</Title>
+    <Artist>Joel, Billy</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 November\11-10\Joel, Billy - Scenes From An Italian Restaurant.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-12-11T23:28:13.7463085-08:00</DateTimeSang>
+    <Title>Who Can It Be Now</Title>
+    <Artist>Men At Work</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\DK\Men At Work - Who Can It Be Now.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-12-12T01:25:34.5980222-08:00</DateTimeSang>
+    <Title>Piano Man</Title>
+    <Artist>Joel, Billy</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC\Joel, Billy - Piano Man.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

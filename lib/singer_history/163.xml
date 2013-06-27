@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2009-12-27T22:01:57.8178288-08:00</DateTimeSang>
+    <Title>Nuthin' But A G Thang (Feat. Snoop Dogg)-NEW</Title>
+    <Artist>Dr. Dre</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Desktop\dec sc\december sc convert final 3\Dr. Dre - Nuthin' But A G Thang (Feat. Snoop Dogg)-NEW.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2009-12-27T22:59:39.7398395-08:00</DateTimeSang>
+    <Title>In The End-NEW</Title>
+    <Artist>Linkin Park</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Desktop\dec sc\december sc convert final-2\Linkin Park - In The End-NEW.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2009-12-27T23:07:06.0703681-08:00</DateTimeSang>
+    <Title>Jumper-NEW</Title>
+    <Artist>Third Eye Blind</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Desktop\dec sc\december sc convert final-2\Third Eye Blind - Jumper-NEW.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

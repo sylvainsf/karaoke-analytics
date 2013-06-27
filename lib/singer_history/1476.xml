@@ -1,0 +1,87 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-09-06T01:28:22.0597444-07:00</DateTimeSang>
+    <Title>Whos That Girl</Title>
+    <Artist>Robyn</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\MRE\Robyn - Whos That Girl.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-01-12T23:28:32.9220569-08:00</DateTimeSang>
+    <Title>Put Your Records On</Title>
+    <Artist>Rae, Corinne Bailey</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 2\SC\Rae, Corinne Bailey - Put Your Records On.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-10-28T00:49:00.4893859-07:00</DateTimeSang>
+    <Title>Sweet Dreams</Title>
+    <Artist>Beyonce</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED\ZOOM\Beyonce - Sweet Dreams.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>7.691183923110529</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-04-20T23:59:40.0949522-07:00</DateTimeSang>
+    <Title>Halo</Title>
+    <Artist>Beyonce</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\ZOOM DL\Beyonce - Halo.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-07-31T22:10:45.9457236-07:00</DateTimeSang>
+    <Title>Time Warp</Title>
+    <Artist>Rocky Horror Picture Show</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED\SC\Rocky Horror Picture Show - Time Warp.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-03-31T23:37:23.3978269-07:00</DateTimeSang>
+    <Title>Black Sheep</Title>
+    <Artist>Metric</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2012\april\4-19\Metric - Black Sheep.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-04-01T01:17:02.46581-07:00</DateTimeSang>
+    <Title>Seven Nation Army</Title>
+    <Artist>White Stripes, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC\White Stripes, The - Seven Nation Army.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2012-01-23T00:42:46.2584152-08:00</DateTimeSang>
+    <Title>Wild Rover, The</Title>
+    <Artist>Dropkick Murphys, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\STTW\Dropkick Murphys, The - Wild Rover, The.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-03-09T22:01:45.1373698-08:00</DateTimeSang>
+    <Title>Locomotive Breath</Title>
+    <Artist>Jethro Tull</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 February\02-04\Jethro Tull - Locomotive Breath.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-03-09T23:04:50.4988801-08:00</DateTimeSang>
+    <Title>Puttin' On The Ritz</Title>
+    <Artist>Taco</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Taco - Puttin' On The Ritz.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-03-09T23:30:41.6906032-08:00</DateTimeSang>
+    <Title>You Don't Mess Around With Jim</Title>
+    <Artist>Croce, Jim</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Dec-SC\dec sc\december sc convert final-1\Croce, Jim - You Don't Mess Around With Jim.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-03-09T23:59:11.5654024-08:00</DateTimeSang>
+    <Title>Stray Cat Strut</Title>
+    <Artist>Stray Cats</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Stray Cats - Stray Cat Strut.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-03-10T00:19:48.2701379-08:00</DateTimeSang>
+    <Title>Boyz In The Hood</Title>
+    <Artist>Dynamite Hack</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\sgb\Dynamite Hack - Boyz In The Hood.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

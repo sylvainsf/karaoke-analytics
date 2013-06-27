@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-04-08T00:49:28.5372827-07:00</DateTimeSang>
+    <Title>Rebecca_Black_-_Friday_-_G24537.ZIP</Title>
+    <Artist />
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Desktop\3-20\Rebecca_Black_-_Friday_-_G24537.ZIP</Path>
+    <Tempo>4</Tempo>
+    <StartPoint>12.809527554140924</StartPoint>
+    <EndPoint>221.32017051876818</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

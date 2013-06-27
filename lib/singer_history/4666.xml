@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-03-21T22:02:35.5035837-07:00</DateTimeSang>
+    <Title>Inner City Blues (Make Me Wanna Holler)</Title>
+    <Artist>Gaye, Marvin</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 March\3-17\Gaye, Marvin - Inner City Blues (Make Me Wanna Holler).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-03-21T23:42:20.5139067-07:00</DateTimeSang>
+    <Title>Ain't No Mountain High Enough (Feat. Tammi Terrell)</Title>
+    <Artist>Gaye, Marvin</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Gaye, Marvin - Ain't No Mountain High Enough (Feat. Tammi Terrell).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

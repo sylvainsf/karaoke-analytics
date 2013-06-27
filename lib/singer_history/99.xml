@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-04-21T23:44:59.6912328-07:00</DateTimeSang>
+    <Title>What's Your Name</Title>
+    <Artist>Lynyrd Skynyrd</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC new adds\Lynyrd Skynyrd - What's Your Name.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-05-05T23:48:25.8293962-07:00</DateTimeSang>
+    <Title>Take Me Out</Title>
+    <Artist>Franz Ferdinand</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SIN\Franz Ferdinand - Take Me Out.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-05-06T01:08:19.5987292-07:00</DateTimeSang>
+    <Title>Red_Hot_Chili_Peppers_-_Can't_Stop_-_SFWS006-06.ZIP</Title>
+    <Artist />
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Desktop\5-06\Red_Hot_Chili_Peppers_-_Can't_Stop_-_SFWS006-06.ZIP</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>9.4596018223803267</StartPoint>
+    <EndPoint>270.88859764089119</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-09-23T23:07:46.8353686-07:00</DateTimeSang>
+    <Title>Badfish</Title>
+    <Artist>Sublime</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 March\3.07\Sublime - Badfish.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-09-24T00:49:20.5969118-07:00</DateTimeSang>
+    <Title>Miss You</Title>
+    <Artist>Rolling Stones, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\BS\Rolling Stones, The - Miss You.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

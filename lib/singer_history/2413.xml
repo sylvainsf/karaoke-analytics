@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2011-05-28T01:32:31.2435475-07:00</DateTimeSang>
+    <Title>Baby Got Back</Title>
+    <Artist>Sir Mix-A-Lot</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\MH\Sir Mix-A-Lot - Baby Got Back.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

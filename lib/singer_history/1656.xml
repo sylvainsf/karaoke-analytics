@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-10-21T20:10:55.9580315-07:00</DateTimeSang>
+    <Title>Forget About Dre (Feat. Eminem)</Title>
+    <Artist>Dr. Dre</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 June\06-04\Dr. Dre - Forget About Dre (Feat. Eminem).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2011-11-03T20:29:18.8079466-07:00</DateTimeSang>
+    <Title>Forgot About Dre (Feat. Eminem)</Title>
+    <Artist>Dr. Dre</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 June\06-04\Dr. Dre - Forgot About Dre (Feat. Eminem).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

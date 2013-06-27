@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-04-25T00:53:52.0899287-07:00</DateTimeSang>
+    <Title>Mouth</Title>
+    <Artist>Bainbridge, Merrill</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\sgb\Bainbridge, Merrill - Mouth.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-04-25T01:48:31.5205014-07:00</DateTimeSang>
+    <Title>Missionary Man</Title>
+    <Artist>Eurythmics</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SC\Eurythmics - Missionary Man.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>6.9611620795107036</StartPoint>
+    <EndPoint>247.32599388379205</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-05-02T01:41:51.9860225-07:00</DateTimeSang>
+    <Title>Faith</Title>
+    <Artist>Michael, George</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Michael, George - Faith.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-02-19T23:07:49.994788-08:00</DateTimeSang>
+    <Title>I Want You Back</Title>
+    <Artist>Jackson 5, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Jackson 5, The - I Want You Back.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2012-05-27T21:17:50.9513241-07:00</DateTimeSang>
+    <Title>Let's Get It On</Title>
+    <Artist>Gaye, Marvin</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Gaye, Marvin - Let's Get It On.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2012-09-02T22:27:53.581303-07:00</DateTimeSang>
+    <Title>Super Bass</Title>
+    <Artist>Minaj, Nicki</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011\2011 May\5-10\Minaj, Nicki - Super Bass.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-08-04T01:18:56.4796014-07:00</DateTimeSang>
+    <Title>Gunpowder And Lead</Title>
+    <Artist>Lambert, Miranda</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SBI\Lambert, Miranda - Gunpowder And Lead.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>7.6904587155963311</StartPoint>
+    <EndPoint>181.15302752293579</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-02-17T23:35:59.981876-08:00</DateTimeSang>
+    <Title>I Wanna Be Your Lover</Title>
+    <Artist>Prince</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Dec-SC\dec sc\december sc convert final-1\Prince - I Wanna Be Your Lover.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

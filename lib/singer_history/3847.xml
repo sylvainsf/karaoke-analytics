@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-06-22T00:35:50.6101295-07:00</DateTimeSang>
+    <Title>Boogie On Reggae Woman</Title>
+    <Artist>Wonder, Stevie</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\VENUE\Wonder, Stevie - Boogie On Reggae Woman.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2012-06-22T21:34:20.6699606-07:00</DateTimeSang>
+    <Title>Sun Ain't Gonna Shine Anymore, The</Title>
+    <Artist>Walker Brothers, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\ZOOM DL\Walker Brothers, The - Sun Ain't Gonna Shine Anymore, The.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2013-05-17T10:30:13.9481287-07:00</DateTimeSang>
+    <Title>I Walk The Line</Title>
+    <Artist>Cash, Johnny</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC Foundations\Cash, Johnny - I Walk The Line.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

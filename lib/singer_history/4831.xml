@@ -1,0 +1,87 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-05-28T22:01:21.1288204-07:00</DateTimeSang>
+    <Title>Brick House</Title>
+    <Artist>Commodores, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\sgb\Commodores, The - Brick House.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2013-06-19T00:15:08.584586-07:00</DateTimeSang>
+    <Title>Livin' On A Prayer</Title>
+    <Artist>Bon Jovi</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\sgb toolbox\Bon Jovi - Livin' On A Prayer.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>3</Count>
+    <DateTimeSang>2013-06-19T21:10:07.261789-07:00</DateTimeSang>
+    <Title>Unpredictable (Feat. Ludacris)</Title>
+    <Artist>Foxx, Jamie</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SC\Foxx, Jamie - Unpredictable (Feat. Ludacris).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>5.91909130624727</StartPoint>
+    <EndPoint>226.70119702927042</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2013-05-29T21:25:19.5274243-07:00</DateTimeSang>
+    <Title>We Are Young (Feat. Janelle Monae)</Title>
+    <Artist>Fun</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2012\feb\2-2\Fun - We Are Young (Feat. Janelle Monae).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-06-11T23:42:13.7465441-07:00</DateTimeSang>
+    <Title>Carry On</Title>
+    <Artist>Fun</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2012\august\8-18\Fun - Carry On.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-06-12T01:24:29.9985177-07:00</DateTimeSang>
+    <Title>1901</Title>
+    <Artist>Phoenix</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 April\04-15\Phoenix - 1901.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-06-18T22:56:59.995414-07:00</DateTimeSang>
+    <Title>Treasure</Title>
+    <Artist>Mars, Bruno</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2013\6-15\Mars, Bruno - Treasure.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

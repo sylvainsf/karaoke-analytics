@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-09-04T00:36:15.8271878-07:00</DateTimeSang>
+    <Title>Night Moves</Title>
+    <Artist>Seger, Bob</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SC\Seger, Bob - Night Moves.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-09-04T01:06:07.838685-07:00</DateTimeSang>
+    <Title>Don't Come Home A'Drinkin' (Feat. Lovin' On Your Mind)</Title>
+    <Artist>Lynn, Loretta</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Lynn, Loretta - Don't Come Home A'Drinkin' (Feat. Lovin' On Your Mind).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

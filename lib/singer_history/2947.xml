@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2011-10-15T21:35:50.7786059-07:00</DateTimeSang>
+    <Title>Billie Jean</Title>
+    <Artist>Jackson, Michael</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Jackson, Michael - Billie Jean.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>5.8902527616551215</StartPoint>
+    <EndPoint>308.7551368952075</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

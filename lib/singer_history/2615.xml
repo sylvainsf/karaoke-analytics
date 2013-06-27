@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-07-15T23:09:59.6326596-07:00</DateTimeSang>
+    <Title>Grease-Grease (Is The World)</Title>
+    <Artist>Broadway-Musicals</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 December\12-31\Broadway-Musicals - Grease-Grease (Is The World).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-07-16T00:53:42.2515731-07:00</DateTimeSang>
+    <Title>Highway To Hell</Title>
+    <Artist>AC-DC</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\sgb\AC-DC - Highway To Hell.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>2.0300917431192662</StartPoint>
+    <EndPoint>208.422752293578</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

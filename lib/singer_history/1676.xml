@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-10-24T23:17:43.8578696-07:00</DateTimeSang>
+    <Title>Don't You (Forget About Me)</Title>
+    <Artist>Simple Minds</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Simple Minds - Don't You (Forget About Me).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-10-25T01:16:47.1074401-07:00</DateTimeSang>
+    <Title>Close My Eyes Forever (Feat. Ozzy Osbourne)</Title>
+    <Artist>Ford, Lita</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC\headbangers hits\Ford, Lita - Close My Eyes Forever (Feat. Ozzy Osbourne).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

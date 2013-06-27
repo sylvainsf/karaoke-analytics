@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-05-04T22:55:33.9982888-07:00</DateTimeSang>
+    <Title>Dead And Gone (Feat. Justin Timberlake)</Title>
+    <Artist>T.I.</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SBI\T.I. - Dead And Gone (Feat. Justin Timberlake).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-05-05T01:05:33.6514034-07:00</DateTimeSang>
+    <Title>Black Water</Title>
+    <Artist>Doobie Brothers, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Doobie Brothers, The - Black Water.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-07-10T22:54:17.0080884-07:00</DateTimeSang>
+    <Title>Dizzee_Rascal_Feat._Calvin_Harris_&amp;_Chrome_-_Dance_Wiv_Me_-_SF270-01.ZIP</Title>
+    <Artist />
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Desktop\7-10\Dizzee_Rascal_Feat._Calvin_Harris_&amp;_Chrome_-_Dance_Wiv_Me_-_SF270-01.ZIP</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-07-11T00:52:22.0383289-07:00</DateTimeSang>
+    <Title>Temperature</Title>
+    <Artist>Paul, Sean</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Panorama 2006\Paul, Sean - Temperature.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

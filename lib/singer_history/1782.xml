@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2010-11-27T14:02:39.1888687-08:00</DateTimeSang>
+    <Title>Harden My Heart</Title>
+    <Artist>Quarterflash</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SUN\Quarterflash - Harden My Heart.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>8.3801834862385309</StartPoint>
+    <EndPoint>236.16880733944956</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-02-16T23:44:15.1770793-08:00</DateTimeSang>
+    <Title>Oops! I Did It Again</Title>
+    <Artist>Spears, Britney</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Spears, Britney - Oops! I Did It Again.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2012-03-09T01:15:28.2457035-08:00</DateTimeSang>
+    <Title>I Kissed A Girl</Title>
+    <Artist>Perry, Katy</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SBI\Perry, Katy - I Kissed A Girl.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>10.100489296636086</StartPoint>
+    <EndPoint>194.66397553516822</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

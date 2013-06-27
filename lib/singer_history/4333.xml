@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-12-02T22:03:32.9619728-08:00</DateTimeSang>
+    <Title>Ain't Goin' Down ('Til The Sun Comes Up)</Title>
+    <Artist>Brooks, Garth</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 June\06-05\Brooks, Garth - Ain't Goin' Down ('Til The Sun Comes Up).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-12-02T23:43:39.2335119-08:00</DateTimeSang>
+    <Title>I Wanna Go</Title>
+    <Artist>Spears, Britney</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011\2011 June\6-10\Spears, Britney - I Wanna Go.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-12-03T01:31:47.9086428-08:00</DateTimeSang>
+    <Title>Hangin' Tough</Title>
+    <Artist>New Kids On The Block</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\New Kids On The Block - Hangin' Tough.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

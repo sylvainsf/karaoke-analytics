@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-09-25T00:07:21.5974037-07:00</DateTimeSang>
+    <Title>Rompe</Title>
+    <Artist>Daddy Yankee</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Panorama 2006\Daddy Yankee - Rompe.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-04-16T01:32:49.2980089-07:00</DateTimeSang>
+    <Title>Return Of The Mack</Title>
+    <Artist>Morrison, Mark</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SBI\Morrison, Mark - Return Of The Mack.zip</Path>
+    <Tempo>5</Tempo>
+    <StartPoint>11.079375793130708</StartPoint>
+    <EndPoint>196.40711633277164</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-08-28T23:01:58.1358578-07:00</DateTimeSang>
+    <Title>Self Esteem</Title>
+    <Artist>Offspring, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC new adds\Offspring, The - Self Esteem.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>6.7991861698807972</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

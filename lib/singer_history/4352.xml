@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-12-06T22:25:26.300589-08:00</DateTimeSang>
+    <Title>Born To Be Wild</Title>
+    <Artist>Steppenwolf</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Dec-SC\dec sc\december sc convert final-2\Steppenwolf - Born To Be Wild.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-12-06T23:29:00.9627752-08:00</DateTimeSang>
+    <Title>Dani California</Title>
+    <Artist>Red Hot Chili Peppers</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Panorama 2006\Red Hot Chili Peppers - Dani California.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-12-07T01:08:22.40175-08:00</DateTimeSang>
+    <Title>Separate Ways (World's Apart)</Title>
+    <Artist>Journey</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Dec-SC\dec sc\december sc convert final-2\Journey - Separate Ways (World's Apart).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>8.82821610601427</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-01-08T23:38:27.3630433-08:00</DateTimeSang>
+    <Title>Hill, Lauryn - Ex Factor-NEW</Title>
+    <Artist />
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Desktop\karaoke fix\dec sc\december sc convert final-1\Hill, Lauryn - Ex Factor-NEW.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-01-09T00:57:07.7800357-08:00</DateTimeSang>
+    <Title>Sublime - Santeria-NEW</Title>
+    <Artist />
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Desktop\karaoke fix\dec sc\december sc convert final-2\Sublime - Santeria-NEW.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-09-26T00:52:18.2061915-07:00</DateTimeSang>
+    <Title>Tyrone</Title>
+    <Artist>Badu, Erykah</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011 March\3-9\Badu, Erykah - Tyrone.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-07-19T23:04:41.5719392-07:00</DateTimeSang>
+    <Title>You've Really Got A Hold On Me</Title>
+    <Artist>Miracles, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Miracles, The - You've Really Got A Hold On Me.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-07-19T23:42:02.0960898-07:00</DateTimeSang>
+    <Title>F##k And Run</Title>
+    <Artist>Phair, Liz</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SC\Phair, Liz - F##k And Run.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-07-20T00:45:23.2900992-07:00</DateTimeSang>
+    <Title>It's Oh So Quiet</Title>
+    <Artist>Bjork</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SBI\Bjork - It's Oh So Quiet.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>9.692477064220185</StartPoint>
+    <EndPoint>225.43983690112131</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

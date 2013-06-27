@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-03-11T21:27:53.0069112-07:00</DateTimeSang>
+    <Title>Be My Baby</Title>
+    <Artist>Ronettes, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Ronettes, The - Be My Baby.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-03-11T22:49:09.1278094-07:00</DateTimeSang>
+    <Title>Black Dog</Title>
+    <Artist>Led Zeppelin</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\sgb\Led Zeppelin - Black Dog.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-03-12T01:14:21.478325-07:00</DateTimeSang>
+    <Title>Angels</Title>
+    <Artist>Williams, Robbie</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011\2011 August\8-28\Williams, Robbie - Angels.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>5.6422964904616286</StartPoint>
+    <EndPoint>237.35260569875248</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

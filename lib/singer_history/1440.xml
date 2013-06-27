@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-09-01T23:07:33.8169508-07:00</DateTimeSang>
+    <Title>Dream A Little Dream Of Me</Title>
+    <Artist>Cass, Mama</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\sgb\Cass, Mama - Dream A Little Dream Of Me.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2010-09-01T23:51:33.9599584-07:00</DateTimeSang>
+    <Title>Get Here If You Can</Title>
+    <Artist>Adams, Oleta</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED\EK\Adams, Oleta - Get Here If You Can.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-09-02T00:45:23.5586809-07:00</DateTimeSang>
+    <Title>American Pie</Title>
+    <Artist>McLean, Don</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\McLean, Don - American Pie.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-01-29T01:05:28.0556954-08:00</DateTimeSang>
+    <Title>What's Up</Title>
+    <Artist>Four Non Blondes</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Supercore 2006\Four Non Blondes - What's Up.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>249.74051800536728</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-11-13T22:24:49.7078726-08:00</DateTimeSang>
+    <Title>Summer Nights (Feat. John Travolta)</Title>
+    <Artist>Newton-John, Olivia</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC\Newton-John, Olivia - Summer Nights (Feat. John Travolta).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-11-14T00:08:16.4168761-08:00</DateTimeSang>
+    <Title>Proud Mary (Feat. Ike Turner)</Title>
+    <Artist>Turner, Tina</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC\Turner, Tina - Proud Mary (Feat. Ike Turner).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-11-20T22:10:44.0868706-08:00</DateTimeSang>
+    <Title>Superstition</Title>
+    <Artist>Wonder, Stevie</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 2\SC\Wonder, Stevie - Superstition.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-11-20T23:43:15.8494132-08:00</DateTimeSang>
+    <Title>Sex On Fire</Title>
+    <Artist>Kings Of Leon</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SUN\Kings Of Leon - Sex On Fire.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

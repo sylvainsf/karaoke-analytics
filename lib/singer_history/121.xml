@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2009-12-19T00:17:03.6750845-08:00</DateTimeSang>
+    <Title>Sweet Home Alabama-NEW</Title>
+    <Artist>Lynyrd Skynyrd</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Desktop\December SC-1\Lynyrd Skynyrd - Sweet Home Alabama-NEW.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-01-29T23:07:15.2061348-08:00</DateTimeSang>
+    <Title>Suffragette City</Title>
+    <Artist>Bowie, David</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\sgb\Bowie, David - Suffragette City.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-11-18T22:01:24.2266144-08:00</DateTimeSang>
+    <Title>I Can't Go For That (No Can Do)</Title>
+    <Artist>Hall &amp; Oates</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Hall &amp; Oates - I Can't Go For That (No Can Do).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-11-18T23:13:49.5981554-08:00</DateTimeSang>
+    <Title>Born To Be Wild</Title>
+    <Artist>Steppenwolf</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Steppenwolf - Born To Be Wild.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-11-19T01:09:01.5854984-08:00</DateTimeSang>
+    <Title>Paint It Black</Title>
+    <Artist>Rolling Stones, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\BS\Rolling Stones, The - Paint It Black.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

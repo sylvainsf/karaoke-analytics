@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2009-12-13T23:13:28.5759764-08:00</DateTimeSang>
+    <Title>Islands In The Stream (With Dolly Parton)</Title>
+    <Artist>Rogers, Kenny</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\DK\Rogers, Kenny - Islands In The Stream (With Dolly Parton).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2009-12-13T23:36:34.9042699-08:00</DateTimeSang>
+    <Title>True</Title>
+    <Artist>Spandau Ballet</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LG\Spandau Ballet - True.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2009-12-14T00:31:39.5602175-08:00</DateTimeSang>
+    <Title>A &amp; E</Title>
+    <Artist>Goldfrapp</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2009 february\karaoke 2.05\Goldfrapp - A &amp; E.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2009-12-14T01:17:53.694889-08:00</DateTimeSang>
+    <Title>Freedom</Title>
+    <Artist>Michael, George</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2008 april-may\Michael, George - Freedom.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

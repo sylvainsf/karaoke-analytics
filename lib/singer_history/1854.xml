@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-12-30T22:10:03.8207352-08:00</DateTimeSang>
+    <Title>Give It To Me Baby</Title>
+    <Artist>James, Rick</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 February\2-20\James, Rick - Give It To Me Baby.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-12-30T23:08:13.6813438-08:00</DateTimeSang>
+    <Title>My Humps</Title>
+    <Artist>Black Eyed Peas</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Panorama 2006\Black Eyed Peas - My Humps.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-12-31T00:37:45.3295845-08:00</DateTimeSang>
+    <Title>Crazy Bitch</Title>
+    <Artist>Buckcherry</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 March\3-17\Buckcherry - Crazy Bitch.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>14.589300623409406</StartPoint>
+    <EndPoint>209.67878570388402</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

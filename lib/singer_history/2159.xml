@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-03-27T23:40:45.4746045-07:00</DateTimeSang>
+    <Title>Need You Tonight</Title>
+    <Artist>INXS</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 2\SC\INXS - Need You Tonight.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>4.4152905198776757</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-03-28T01:00:58.0848701-07:00</DateTimeSang>
+    <Title>I'm On A Boat (Feat. T-Pain)</Title>
+    <Artist>Lonely Island, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SBI\Lonely Island, The - I'm On A Boat (Feat. T-Pain).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-04-17T23:59:17.9980393-07:00</DateTimeSang>
+    <Title>Tik Tok</Title>
+    <Artist>Ke$ha</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 April\04-15\Ke$ha - Tik Tok.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-05-15T00:35:52.6693554-07:00</DateTimeSang>
+    <Title>Easy</Title>
+    <Artist>Commodores, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED\VENUE\Commodores, The - Easy.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-06-19T00:07:58.3192689-07:00</DateTimeSang>
+    <Title>Tik Tok</Title>
+    <Artist>Ke$ha</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\ZOOM DL\Ke$ha - Tik Tok.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-06-19T01:10:14.0189387-07:00</DateTimeSang>
+    <Title>Slow Ride</Title>
+    <Artist>Foghat</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Dec-SC\dec sc\december sc convert final-2\Foghat - Slow Ride.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>3.5467889908256884</StartPoint>
+    <EndPoint>244.3343527013252</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-04-11T00:30:57.678506-07:00</DateTimeSang>
+    <Title>Lion King, The-I Just Can't Wait To Be King</Title>
+    <Artist>Disney</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011 January\1-25\Disney - Lion King, The-I Just Can't Wait To Be King.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-04-11T01:11:32.5417722-07:00</DateTimeSang>
+    <Title>Home</Title>
+    <Artist>Sharpe, Edward &amp; The Magnetic Zeros</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011 February\2-16\Sharpe, Edward &amp; The Magnetic Zeros - Home.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-04-11T01:50:17.4107471-07:00</DateTimeSang>
+    <Title>Return Of The Mack</Title>
+    <Artist>Morrison, Mark</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Dec-SC\dec sc\december sc convert final-2\Morrison, Mark - Return Of The Mack.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

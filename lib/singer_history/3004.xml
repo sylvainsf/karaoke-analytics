@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-10-30T22:04:34.0140697-07:00</DateTimeSang>
+    <Title>Paul_McCartney_&amp;_Michael_Jackson_-_Say_Say_Say_-_SFDT-1120.ZIP</Title>
+    <Artist />
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Desktop\10-27\Paul_McCartney_&amp;_Michael_Jackson_-_Say_Say_Say_-_SFDT-1120.ZIP</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-10-30T23:24:47.5883905-07:00</DateTimeSang>
+    <Title>Nookie</Title>
+    <Artist>Limp Bizkit</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC new adds\Limp Bizkit - Nookie.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

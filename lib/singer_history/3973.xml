@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2012-08-04T22:36:52.7010011-07:00</DateTimeSang>
+    <Title>F##k Her Gently</Title>
+    <Artist>Tenacious D</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED\SC\Tenacious D - F##k Her Gently.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>6.0511414841165818</StartPoint>
+    <EndPoint>126.65665106409534</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-03-19T00:13:58.5645703-07:00</DateTimeSang>
+    <Title>Close My Eyes Forever (Feat. Ozzy Osbourne)</Title>
+    <Artist>Ford, Lita</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC\headbangers hits\Ford, Lita - Close My Eyes Forever (Feat. Ozzy Osbourne).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-03-19T01:19:50.6026139-07:00</DateTimeSang>
+    <Title>Talk Dirty To Me</Title>
+    <Artist>Poison</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC\headbangers hits\Poison - Talk Dirty To Me.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>6.4612844036697252</StartPoint>
+    <EndPoint>226.862874617737</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

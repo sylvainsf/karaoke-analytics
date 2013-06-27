@@ -1,0 +1,87 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2009-12-19T11:09:39.9384235-08:00</DateTimeSang>
+    <Title>None Of Your Business</Title>
+    <Artist>Salt-N-Pepa</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2008 winter-spring\Salt-N-Pepa - None Of Your Business.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>8.1932517838939862</StartPoint>
+    <EndPoint>224.78008154943933</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-01-08T22:50:36.0068112-08:00</DateTimeSang>
+    <Title>Party In The USA</Title>
+    <Artist>Cyrus, Miley</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\11.05\Cyrus, Miley - Party In The USA.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-04-22T01:01:05.7463962-07:00</DateTimeSang>
+    <Title>Cowboy Take Me Away</Title>
+    <Artist>Dixie Chicks</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\sgb\Dixie Chicks - Cowboy Take Me Away.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-04-22T01:19:53.2338848-07:00</DateTimeSang>
+    <Title>Friends In Low Places</Title>
+    <Artist>Brooks, Garth</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Dec-SC\December SC Country\Brooks, Garth - Friends In Low Places.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-04-22T01:30:55.215748-07:00</DateTimeSang>
+    <Title>Our Song</Title>
+    <Artist>Swift, Taylor</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\Top Hits\Swift, Taylor - Our Song.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-05-13T01:05:30.0071846-07:00</DateTimeSang>
+    <Title>Because Of You</Title>
+    <Artist>Clarkson, Kelly</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\Top Hits\Clarkson, Kelly - Because Of You.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-05-13T01:24:33.2855764-07:00</DateTimeSang>
+    <Title>My Immortal</Title>
+    <Artist>Evanescence</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Supercore 2006\Evanescence - My Immortal.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

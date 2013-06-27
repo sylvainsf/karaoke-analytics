@@ -1,0 +1,99 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-04-11T00:50:24.8182626-07:00</DateTimeSang>
+    <Title>Come Together</Title>
+    <Artist>Beatles, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Beatles, The - Come Together.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-04-11T01:32:28.465607-07:00</DateTimeSang>
+    <Title>I Will Always Love You</Title>
+    <Artist>Houston, Whitney</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Houston, Whitney - I Will Always Love You.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-04-07T01:18:44.9314734-07:00</DateTimeSang>
+    <Title>Sugar</Title>
+    <Artist>System Of A Down</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SC\System Of A Down - Sugar.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>5.3455657492354742</StartPoint>
+    <EndPoint>163.84159021406728</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-01-05T21:40:25.7061861-08:00</DateTimeSang>
+    <Title>Metro</Title>
+    <Artist>Berlin</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC\Berlin - Metro.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-01-05T22:23:24.0986617-08:00</DateTimeSang>
+    <Title>Oh England My Lionheart</Title>
+    <Artist>Bush, Kate</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SBI\Bush, Kate - Oh England My Lionheart.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-01-05T23:08:57.0489775-08:00</DateTimeSang>
+    <Title>Wow</Title>
+    <Artist>Bush, Kate</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011\2011 April\04-10\Bush, Kate - Wow.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-01-05T23:38:38.3908645-08:00</DateTimeSang>
+    <Title>Lonely Teardrops</Title>
+    <Artist>Wilson, Jackie</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\sgb\Wilson, Jackie - Lonely Teardrops.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-01-06T00:02:13.2927922-08:00</DateTimeSang>
+    <Title>Bloodletting</Title>
+    <Artist>Concrete Blonde</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2012\november\11-28\Concrete Blonde - Bloodletting.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

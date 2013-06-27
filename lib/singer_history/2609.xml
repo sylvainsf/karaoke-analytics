@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-07-14T22:19:18.4586893-07:00</DateTimeSang>
+    <Title>Senorita</Title>
+    <Artist>Timberlake, Justin</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED\SUNFLY\Timberlake, Justin - Senorita.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2012-02-12T23:32:24.8096219-08:00</DateTimeSang>
+    <Title>Nice &amp; Slow</Title>
+    <Artist>Usher</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 June\06-04\Usher - Nice &amp; Slow.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-01-20T01:14:26.0283512-08:00</DateTimeSang>
+    <Title>You've Lost That Lovin' Feelin'</Title>
+    <Artist>Righteous Brothers, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED\ZOOM\Righteous Brothers, The - You've Lost That Lovin' Feelin'.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>7.2931161455407851</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

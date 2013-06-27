@@ -1,0 +1,87 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-08-30T00:22:32.0729365-07:00</DateTimeSang>
+    <Title>Whoomp There It Is</Title>
+    <Artist>Tag Team</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\TIPTOP\Tag Team - Whoomp There It Is.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-12-11T23:25:39.8174503-08:00</DateTimeSang>
+    <Title>Rolling In The Deep</Title>
+    <Artist>Adele</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011\2011 April\04-09\Adele - Rolling In The Deep.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-03-20T23:45:42.781047-07:00</DateTimeSang>
+    <Title>Little Red Corvette</Title>
+    <Artist>Prince</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SC\Prince - Little Red Corvette.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2013-02-21T01:30:54.7059835-08:00</DateTimeSang>
+    <Title>Hit Me With Your Best Shot</Title>
+    <Artist>Benatar, Pat</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Dec-SC\dec sc\december sc convert final-1\Benatar, Pat - Hit Me With Your Best Shot.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-02-07T00:45:57.6923734-08:00</DateTimeSang>
+    <Title>Total Eclipse Of The Heart</Title>
+    <Artist>Tyler, Bonnie</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC\Tyler, Bonnie - Total Eclipse Of The Heart.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-02-07T01:24:19.2380143-08:00</DateTimeSang>
+    <Title>Cruisin' (Feat. Gwyneth Paltrow)</Title>
+    <Artist>Lewis, Huey</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Lewis, Huey - Cruisin' (Feat. Gwyneth Paltrow).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-05-30T01:49:43.8903102-07:00</DateTimeSang>
+    <Title>Wild Horses</Title>
+    <Artist>Sundays, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SUN\Sundays, The - Wild Horses.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>8.4359633027522936</StartPoint>
+    <EndPoint>288.22874617737006</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

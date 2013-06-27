@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-04-09T00:47:47.6947253-07:00</DateTimeSang>
+    <Title>Jennifer_Lopez_On_The_Floor_103144.zip</Title>
+    <Artist />
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Desktop\3-20\Jennifer_Lopez_On_The_Floor_103144.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>5.7936285339824005</StartPoint>
+    <EndPoint>284.33346189852085</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

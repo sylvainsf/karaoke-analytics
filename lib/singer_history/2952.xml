@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-10-16T00:17:06.1540057-07:00</DateTimeSang>
+    <Title>Under The Boardwalk</Title>
+    <Artist>Drifters, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Drifters, The - Under The Boardwalk.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-10-16T01:26:43.3706091-07:00</DateTimeSang>
+    <Title>Juicy</Title>
+    <Artist>Notorious B.I.G.</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SBI\Notorious B.I.G. - Juicy.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>11.770082971006955</StartPoint>
+    <EndPoint>272.24713654676953</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

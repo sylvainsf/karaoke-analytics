@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-02-04T22:00:04.5960877-08:00</DateTimeSang>
+    <Title>Immigrant Song</Title>
+    <Artist>Led Zeppelin</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC new adds\Led Zeppelin - Immigrant Song.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>8</Count>
+    <DateTimeSang>2012-02-03T22:19:42.6206269-08:00</DateTimeSang>
+    <Title>Bohemian Rhapsody</Title>
+    <Artist>Queen</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 September\09.12\Queen - Bohemian Rhapsody.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-02-04T23:26:07.8752059-08:00</DateTimeSang>
+    <Title>Kickapoo</Title>
+    <Artist>Tenacious D</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 August\08-03\Tenacious D - Kickapoo.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-02-04T23:55:36.1933479-08:00</DateTimeSang>
+    <Title>Buffalo Soldier</Title>
+    <Artist>Marley, Bob</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 August\08-26\Marley, Bob - Buffalo Soldier.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2011-02-05T00:52:59.5992994-08:00</DateTimeSang>
+    <Title>Paul Revere</Title>
+    <Artist>Beastie Boys</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\MH\Beastie Boys - Paul Revere.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-02-03T22:23:02.5660631-08:00</DateTimeSang>
+    <Title>Sexy And I Know It</Title>
+    <Artist>LMFAO</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011\2011 October\10-22\LMFAO - Sexy And I Know It.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>8.8198473721802682</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

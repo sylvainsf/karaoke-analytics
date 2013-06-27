@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-10-09T01:05:12.8459551-07:00</DateTimeSang>
+    <Title>Resistance</Title>
+    <Artist>Muse</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 July\7-08\Muse - Resistance.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>43.615781064719457</StartPoint>
+    <EndPoint>343.07535105785433</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-04-10T00:00:57.1362714-07:00</DateTimeSang>
+    <Title>Karma Police</Title>
+    <Artist>Radiohead</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SUN\Radiohead - Karma Police.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-05-27T23:21:25.2265099-07:00</DateTimeSang>
+    <Title>Shattered</Title>
+    <Artist>O.A.R.</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 October\10.20\O.A.R. - Shattered.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-05-28T00:55:23.5860056-07:00</DateTimeSang>
+    <Title>Starlight</Title>
+    <Artist>Muse</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 2\SC\Muse - Starlight.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-08-27T00:56:58.7284937-07:00</DateTimeSang>
+    <Title>Uprising</Title>
+    <Artist>Muse</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED\SBI\Muse - Uprising.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>8.2019303154493191</StartPoint>
+    <EndPoint>311.19088549793</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-08-12T00:41:00.2295448-07:00</DateTimeSang>
+    <Title>Material Girl</Title>
+    <Artist>Madonna</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC\Madonna - Material Girl.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>3.5905186294701368</StartPoint>
+    <EndPoint>250.13946451975286</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

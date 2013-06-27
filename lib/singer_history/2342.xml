@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-05-08T01:22:46.5111223-07:00</DateTimeSang>
+    <Title>Friends In Low Places</Title>
+    <Artist>Brooks, Garth</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Brooks, Garth - Friends In Low Places.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>7.1102190601011044</StartPoint>
+    <EndPoint>233.51456281595208</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-06-18T00:26:15.493529-07:00</DateTimeSang>
+    <Title>No One Like You</Title>
+    <Artist>Scorpions</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SBI\Scorpions - No One Like You.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-11-04T00:10:55.188566-07:00</DateTimeSang>
+    <Title>Because I Got High</Title>
+    <Artist>Afroman</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Dec-SC\dec sc\december sc convert final-2\Afroman - Because I Got High.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-12-12T01:51:47.2709199-08:00</DateTimeSang>
+    <Title>Livin' La Vida Loca (English)</Title>
+    <Artist>Martin, Ricky</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Martin, Ricky - Livin' La Vida Loca (English).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>5.8362104474817453</StartPoint>
+    <EndPoint>247.455322973226</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-02-27T00:28:19.4353498-08:00</DateTimeSang>
+    <Title>Ain't No Sunshine</Title>
+    <Artist>Withers, Bill</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Withers, Bill - Ain't No Sunshine.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-02-24T22:12:10.6472796-08:00</DateTimeSang>
+    <Title>Dare To Be Stupid</Title>
+    <Artist>Yankovic, 'Weird' Al</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SC\Yankovic, 'Weird' Al - Dare To Be Stupid.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-02-25T00:10:58.9829971-08:00</DateTimeSang>
+    <Title>Dead</Title>
+    <Artist>They Might Be Giants</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011\2011 November\11-4\They Might Be Giants - Dead.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

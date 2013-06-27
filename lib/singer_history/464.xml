@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-02-06T01:15:50.5738022-08:00</DateTimeSang>
+    <Title>Oops! I Did It Again</Title>
+    <Artist>Spears, Britney</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Spears, Britney - Oops! I Did It Again.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>6.8733196030705859</StartPoint>
+    <EndPoint>215.8222355364164</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-01-02T00:21:19.0647522-08:00</DateTimeSang>
+    <Title>Alright</Title>
+    <Artist>Supergrass</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\09.25.09\Supergrass - Alright.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-01-02T01:25:03.9685242-08:00</DateTimeSang>
+    <Title>Last Nite</Title>
+    <Artist>Strokes, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2008 april-may\Strokes, The - Last Nite.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>11.246958746801473</StartPoint>
+    <EndPoint>202.44525744242651</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

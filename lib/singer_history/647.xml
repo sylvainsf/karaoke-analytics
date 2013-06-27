@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-03-12T23:58:00.6485757-08:00</DateTimeSang>
+    <Title>Peaches</Title>
+    <Artist>Stranglers, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 February\2-18\Stranglers, The - Peaches.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-03-13T01:09:23.2195248-08:00</DateTimeSang>
+    <Title>F##k Me Pumps</Title>
+    <Artist>Winehouse, Amy</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SBI\Winehouse, Amy - F##k Me Pumps.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-06-05T01:24:53.4249288-07:00</DateTimeSang>
+    <Title>We Are Your Friends (Vs. Simian)</Title>
+    <Artist>Justice</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SBI\Justice - We Are Your Friends (Vs. Simian).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-06-19T01:22:04.4095707-07:00</DateTimeSang>
+    <Title>Too Drunk To F##K</Title>
+    <Artist>Dead Kennedys</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Dec-SC\dec sc\december sc convert final-2\Dead Kennedys - Too Drunk To F##K.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>7.0926605504587164</StartPoint>
+    <EndPoint>162.868501529052</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

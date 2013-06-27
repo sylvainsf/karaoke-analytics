@@ -1,0 +1,87 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-02-14T00:00:34.3508235-08:00</DateTimeSang>
+    <Title>Rooster</Title>
+    <Artist>Alice In Chains</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SBI\Alice In Chains - Rooster.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-03-20T21:49:02.0353574-07:00</DateTimeSang>
+    <Title>Kermit The Frog-Bein' Green</Title>
+    <Artist>Muppets, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 September\09.12\Muppets, The - Kermit The Frog-Bein' Green.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-03-21T00:20:26.4799579-07:00</DateTimeSang>
+    <Title>Manah Manah</Title>
+    <Artist>Muppets, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 November\11-10\Muppets, The - Manah Manah.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-10-29T21:58:34.9851321-07:00</DateTimeSang>
+    <Title>Girlfriend Is Better</Title>
+    <Artist>Talking Heads</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011\2011 August\8-28\Talking Heads - Girlfriend Is Better.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2013-02-17T22:53:12.9750516-08:00</DateTimeSang>
+    <Title>Jolene</Title>
+    <Artist>Parton, Dolly</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Parton, Dolly - Jolene.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>3</Count>
+    <DateTimeSang>2013-01-28T20:18:56.8111179-08:00</DateTimeSang>
+    <Title>Exit Music (For A Film)</Title>
+    <Artist>Radiohead</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011\2011 October\10-22\Radiohead - Exit Music (For A Film).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-02-18T01:15:00.9160097-08:00</DateTimeSang>
+    <Title>Black</Title>
+    <Artist>Pearl Jam</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\Radio Starz\Pearl Jam - Black.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

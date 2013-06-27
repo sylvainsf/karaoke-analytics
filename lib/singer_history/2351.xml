@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-05-12T01:13:20.2154595-07:00</DateTimeSang>
+    <Title>Bohemian Rhapsody</Title>
+    <Artist>Queen</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 September\09.12\Queen - Bohemian Rhapsody.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-01-08T23:08:39.9316594-08:00</DateTimeSang>
+    <Title>Paint It Black</Title>
+    <Artist>Rolling Stones, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\BS\Rolling Stones, The - Paint It Black.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-10-18T00:59:18.5446002-07:00</DateTimeSang>
+    <Title>Now You're Gone</Title>
+    <Artist>Basshunter</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\MF\Basshunter - Now You're Gone.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>14.602928290582288</StartPoint>
+    <EndPoint>160.63221119640517</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

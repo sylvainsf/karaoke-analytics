@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-11-24T00:49:46.7439069-08:00</DateTimeSang>
+    <Title>Sir Psycho Sexy</Title>
+    <Artist>Red Hot Chili Peppers</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Dec-SC\dec sc\december sc convert final-2\Red Hot Chili Peppers - Sir Psycho Sexy.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>6.30421768707483</StartPoint>
+    <EndPoint>505.12544217687076</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-02-05T23:02:33.2556225-08:00</DateTimeSang>
+    <Title>You've Lost That Lovin' Feelin'</Title>
+    <Artist>Righteous Brothers, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED\ZOOM\Righteous Brothers, The - You've Lost That Lovin' Feelin'.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2013-06-18T21:45:41.0696734-07:00</DateTimeSang>
+    <Title>Pretty Good At Drinkin Beer</Title>
+    <Artist>Currington, Billy</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 October\10.20\Currington, Billy - Pretty Good At Drinkin Beer.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-04-23T21:30:40.2902716-07:00</DateTimeSang>
+    <Title>Mirror In The Bathroom</Title>
+    <Artist>English Beat, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED\SUNFLY\English Beat, The - Mirror In The Bathroom.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2013-06-18T22:04:32.4613853-07:00</DateTimeSang>
+    <Title>Good Directions</Title>
+    <Artist>Currington, Billy</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2013\3-15\Currington, Billy - Good Directions.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

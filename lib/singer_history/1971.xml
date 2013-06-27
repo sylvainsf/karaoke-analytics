@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-01-31T01:23:12.3179796-08:00</DateTimeSang>
+    <Title>Goodbye My Lover</Title>
+    <Artist>Blunt, James</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Panorama 2006\Blunt, James - Goodbye My Lover.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-07-11T00:16:41.4308932-07:00</DateTimeSang>
+    <Title>Feelin On Yo Booty</Title>
+    <Artist>R. Kelly</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 June\06-04\R. Kelly - Feelin On Yo Booty.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-03-04T23:44:54.2242315-08:00</DateTimeSang>
+    <Title>Sex On Fire</Title>
+    <Artist>Kings Of Leon</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SUN\Kings Of Leon - Sex On Fire.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-04-14T00:02:51.3415251-07:00</DateTimeSang>
+    <Title>Don't Stop Believin'</Title>
+    <Artist>Journey</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC\Journey - Don't Stop Believin'.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-06-11T00:34:09.7420099-07:00</DateTimeSang>
+    <Title>In The Kitchen</Title>
+    <Artist>R. Kelly</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2012\may\5-25\R. Kelly - In The Kitchen.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-06-11T01:39:07.2059321-07:00</DateTimeSang>
+    <Title>I'm A Flirt (Feat. T-Pain)</Title>
+    <Artist>R. Kelly</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 August\08-26\R. Kelly - I'm A Flirt (Feat. T-Pain).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>7.28884277462259</StartPoint>
+    <EndPoint>332.68360949884539</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

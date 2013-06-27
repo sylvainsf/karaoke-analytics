@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2013-05-02T23:27:55.8194559-07:00</DateTimeSang>
+    <Title>Can't Help Falling In Love</Title>
+    <Artist>Presley, Elvis</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SC\Presley, Elvis - Can't Help Falling In Love.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-04-05T01:25:42.8546685-07:00</DateTimeSang>
+    <Title>Suspicious Minds</Title>
+    <Artist>Presley, Elvis</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SC\Presley, Elvis - Suspicious Minds.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>4.9669400237159085</StartPoint>
+    <EndPoint>198.36716719715409</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-05-02T22:28:41.7871769-07:00</DateTimeSang>
+    <Title>Wonderful Tonight</Title>
+    <Artist>Clapton, Eric</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Dec-SC\dec sc\december sc convert final-1\Clapton, Eric - Wonderful Tonight.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

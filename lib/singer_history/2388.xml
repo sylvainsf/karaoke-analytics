@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-05-21T00:18:46.666172-07:00</DateTimeSang>
+    <Title>Dazz</Title>
+    <Artist>Brick</Artist>
+    <DiscID>Phat Trax: The Best of Old School, Vol. 1</DiscID>
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Music\Desktop\slow soul\Phat Trax; The Best of Old School, Vol. 1\02 - Dazz.mp3</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-05-21T00:23:52.2856525-07:00</DateTimeSang>
+    <Title>99 Problems</Title>
+    <Artist>Jay-Z</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SBI\Jay-Z - 99 Problems.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

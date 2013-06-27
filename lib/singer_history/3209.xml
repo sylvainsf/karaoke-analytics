@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-12-23T00:17:28.5351804-08:00</DateTimeSang>
+    <Title>Vogue</Title>
+    <Artist>Madonna</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SUN\Madonna - Vogue.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2011-12-23T21:21:45.9537751-08:00</DateTimeSang>
+    <Title>Little Shop Of Horrors-Suddenly Seymour</Title>
+    <Artist>Broadway-Musicals</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SUN\Broadway-Musicals - Little Shop Of Horrors-Suddenly Seymour.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>5.9000386943768337</StartPoint>
+    <EndPoint>217.28676542077506</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-02-28T22:39:40.1423379-08:00</DateTimeSang>
+    <Title>Pony</Title>
+    <Artist>Ginuwine</Artist>
+    <DiscID>R &amp; B Classics CD03</DiscID>
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\disco\mp3\Various Artists\R &amp; B Classics CD03\19 - Pony.mp3</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-03-01T00:15:33.3033999-08:00</DateTimeSang>
+    <Title>Return Of The Mack</Title>
+    <Artist>Morrison, Mark</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Dec-SC\dec sc\december sc convert final-2\Morrison, Mark - Return Of The Mack.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-05-21T22:55:03.2313206-07:00</DateTimeSang>
+    <Title>Bad Touch, The</Title>
+    <Artist>Bloodhound Gang, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\sgb\Bloodhound Gang, The - Bad Touch, The.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-06-25T21:43:56.1309263-07:00</DateTimeSang>
+    <Title>Suspicious Minds</Title>
+    <Artist>Presley, Elvis</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SC\Presley, Elvis - Suspicious Minds.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

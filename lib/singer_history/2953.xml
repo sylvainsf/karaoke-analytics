@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-10-16T00:51:55.195492-07:00</DateTimeSang>
+    <Title>Shameless</Title>
+    <Artist>Brooks, Garth</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Brooks, Garth - Shameless.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>5.8967234600262124</StartPoint>
+    <EndPoint>263.66777756974352</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

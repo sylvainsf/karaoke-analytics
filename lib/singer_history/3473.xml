@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-03-09T23:27:31.2965851-08:00</DateTimeSang>
+    <Title>(Everything I Do) I Do It For You</Title>
+    <Artist>Adams, Bryan</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC Foundations\Adams, Bryan - (Everything I Do) I Do It For You.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-03-10T01:07:06.0153194-08:00</DateTimeSang>
+    <Title>Said I Loved You, But I Lied</Title>
+    <Artist>Bolton, Michael</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC new adds\Bolton, Michael - Said I Loved You, But I Lied.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>3.3048492791612056</StartPoint>
+    <EndPoint>300.26916307807528</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-04-07T23:10:50.789188-07:00</DateTimeSang>
+    <Title>Down Under</Title>
+    <Artist>Men At Work</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Dec-SC\dec sc\december sc convert final-1\Men At Work - Down Under.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

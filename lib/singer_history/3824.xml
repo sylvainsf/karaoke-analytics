@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-06-16T00:28:38.6724585-07:00</DateTimeSang>
+    <Title>Fear, The</Title>
+    <Artist>Allen, Lily</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SUN\Allen, Lily - Fear, The.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-07-05T22:10:36.3871906-07:00</DateTimeSang>
+    <Title>Nothing Better</Title>
+    <Artist>Postal Service, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2012\jan\1-31\Postal Service, The - Nothing Better.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-07-05T23:00:39.362951-07:00</DateTimeSang>
+    <Title>On Melancholy Hill</Title>
+    <Artist>Gorillaz</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 October\10.20\Gorillaz - On Melancholy Hill.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-07-06T00:19:04.1150474-07:00</DateTimeSang>
+    <Title>Hurricane Drunk</Title>
+    <Artist>Florence &amp; The Machine</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011\2011 October\10-22\Florence &amp; The Machine - Hurricane Drunk.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-07-06T01:19:36.7208206-07:00</DateTimeSang>
+    <Title>Birdhouse In Your Soul</Title>
+    <Artist>They Might Be Giants</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SUN DL\They Might Be Giants - Birdhouse In Your Soul.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>7.600234662672408</StartPoint>
+    <EndPoint>205.53678087748861</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-08-02T22:37:52.0695571-07:00</DateTimeSang>
+    <Title>Love Cats</Title>
+    <Artist>Cure, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LG\Cure, The - Love Cats.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-01-29T22:52:09.7733471-08:00</DateTimeSang>
+    <Title>Moondance</Title>
+    <Artist>Morrison, Van</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SUN\Morrison, Van - Moondance.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-01-30T00:54:55.2926307-08:00</DateTimeSang>
+    <Title>Living Dead Girl</Title>
+    <Artist>Zombie, Rob</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC new adds\Zombie, Rob - Living Dead Girl.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>9.327889908256882</StartPoint>
+    <EndPoint>197.81559633027524</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-11-18T22:05:09.7215119-08:00</DateTimeSang>
+    <Title>Business Time</Title>
+    <Artist>Flight Of The Conchords</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SUN DL\Flight Of The Conchords - Business Time.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-11-18T23:20:42.2267564-08:00</DateTimeSang>
+    <Title>Whole Lotta Love</Title>
+    <Artist>Led Zeppelin</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\sgb\Led Zeppelin - Whole Lotta Love.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-10-20T21:47:55.3873196-07:00</DateTimeSang>
+    <Title>Down So Long</Title>
+    <Artist>Jewel</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC new adds\Jewel - Down So Long.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-10-20T22:45:29.1098612-07:00</DateTimeSang>
+    <Title>Girls Fall Like Dominoes</Title>
+    <Artist>Minaj, Nicki</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011\2011 April\04-10\Minaj, Nicki - Girls Fall Like Dominoes.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-10-21T00:26:06.2441655-07:00</DateTimeSang>
+    <Title>Whatta Man (Feat. En Vogue)</Title>
+    <Artist>Salt-N-Pepa</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SUN DL\Salt-N-Pepa - Whatta Man (Feat. En Vogue).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>6.5669999375897152</StartPoint>
+    <EndPoint>314.71084316295327</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

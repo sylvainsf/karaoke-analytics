@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-10-15T00:36:13.0896955-07:00</DateTimeSang>
+    <Title>Read My Mind</Title>
+    <Artist>Killers, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SUN\Killers, The - Read My Mind.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-09-09T23:50:15.1767303-07:00</DateTimeSang>
+    <Title>Tell Me Something Good (Feat. Chaka Kahn)</Title>
+    <Artist>Rufus</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011 January\1-01\Rufus - Tell Me Something Good (Feat. Chaka Kahn).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-03-10T00:50:48.4094036-08:00</DateTimeSang>
+    <Title>Black Horse &amp; The Cherry Tree</Title>
+    <Artist>Tunstall, KT</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Panorama 2006\Tunstall, KT - Black Horse &amp; The Cherry Tree.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>18.578253760219681</StartPoint>
+    <EndPoint>189.37832865256195</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-10-23T21:47:24.9875135-07:00</DateTimeSang>
+    <Title>Son Of A Preacher Man</Title>
+    <Artist>Springfield, Dusty</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\sgb\Springfield, Dusty - Son Of A Preacher Man.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-12-10T01:22:19.4690777-08:00</DateTimeSang>
+    <Title>Criminal</Title>
+    <Artist>Apple, Fiona</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Dec-SC\dec sc\december sc convert final-2\Apple, Fiona - Criminal.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

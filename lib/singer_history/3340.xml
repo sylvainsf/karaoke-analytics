@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-02-03T00:58:03.3838158-08:00</DateTimeSang>
+    <Title>Me &amp; Mrs. Jones</Title>
+    <Artist>Paul, Billy</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC Foundations\Paul, Billy - Me &amp; Mrs. Jones.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>3.2752118829183048</StartPoint>
+    <EndPoint>288.21864569681082</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-02-17T01:10:22.3936272-08:00</DateTimeSang>
+    <Title>Is This Love</Title>
+    <Artist>Marley, Bob</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 February\2-18\Marley, Bob - Is This Love.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-03-03T01:05:11.296744-08:00</DateTimeSang>
+    <Title>Smiley Faces</Title>
+    <Artist>Gnarls Barkley</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Panorama 2006\Gnarls Barkley - Smiley Faces.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-06-08T01:25:21.199004-07:00</DateTimeSang>
+    <Title>Sara Smile</Title>
+    <Artist>Hall &amp; Oates</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\sgb\Hall &amp; Oates - Sara Smile.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0.59633027522935778</StartPoint>
+    <EndPoint>182.17889908256882</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-09-09T21:36:22.3188288-07:00</DateTimeSang>
+    <Title>Self Control</Title>
+    <Artist>Branigan, Laura</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Dec-SC\dec sc\december sc convert final-2\Branigan, Laura - Self Control.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-09-09T23:04:28.8231996-07:00</DateTimeSang>
+    <Title>Warrior, The</Title>
+    <Artist>Scandal Feat. Patty Smyth</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\sgb\Scandal Feat. Patty Smyth - Warrior, The.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

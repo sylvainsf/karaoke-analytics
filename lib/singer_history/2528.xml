@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-06-19T23:46:58.4295313-07:00</DateTimeSang>
+    <Title>Linger</Title>
+    <Artist>Cranberries, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Cranberries, The - Linger.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-09-24T22:03:31.2887836-07:00</DateTimeSang>
+    <Title>Don't You Want Me</Title>
+    <Artist>Human League, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SC\Human League, The - Don't You Want Me.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>5.3908256880733942</StartPoint>
+    <EndPoint>261.66238532110088</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

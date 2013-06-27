@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-05-29T23:03:55.7580115-07:00</DateTimeSang>
+    <Title>Careless Whisper</Title>
+    <Artist>Wham!</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\sgb toolbox\Wham! - Careless Whisper.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-12-09T00:52:01.6053189-08:00</DateTimeSang>
+    <Title>Give Me One Reason</Title>
+    <Artist>Chapman, Tracy</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SBI\Chapman, Tracy - Give Me One Reason.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-03-02T01:16:06.5536934-08:00</DateTimeSang>
+    <Title>Tempted</Title>
+    <Artist>Squeeze</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SC\Squeeze - Tempted.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>4.5342819696686005</StartPoint>
+    <EndPoint>258.45407227111031</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-05-20T00:29:28.7279527-07:00</DateTimeSang>
+    <Title>Best Of My Love</Title>
+    <Artist>Eagles</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\BS\Eagles - Best Of My Love.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

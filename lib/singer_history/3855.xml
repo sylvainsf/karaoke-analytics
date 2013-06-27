@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-06-23T01:03:23.3213592-07:00</DateTimeSang>
+    <Title>Stand Up (Feat. Shawman)</Title>
+    <Artist>Ludacris</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SIN\Ludacris - Stand Up (Feat. Shawman).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>8.8861162079510709</StartPoint>
+    <EndPoint>229.558002038736</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

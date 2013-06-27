@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-04-09T00:43:40.8436063-07:00</DateTimeSang>
+    <Title>Longest Time, The</Title>
+    <Artist>Joel, Billy</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\BS\Joel, Billy - Longest Time, The.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>5.72169506334644</StartPoint>
+    <EndPoint>229.94062035823504</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

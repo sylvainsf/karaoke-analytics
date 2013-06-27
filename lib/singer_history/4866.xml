@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-06-11T23:13:50.6781342-07:00</DateTimeSang>
+    <Title>I Can't Stop Dancing</Title>
+    <Artist>Archie Bell &amp; the Drells</Artist>
+    <DiscID>Sock It to Em Soul</DiscID>
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\disco\mp3\Various Artists\Sock It to Em Soul\12 - I Can't Stop Dancing.mp3</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

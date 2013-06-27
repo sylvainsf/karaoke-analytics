@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-01-07T00:14:37.7000072-08:00</DateTimeSang>
+    <Title>Gone Daddy Gone</Title>
+    <Artist>Violent Femmes</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2012\august\8-5\Violent Femmes - Gone Daddy Gone.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2013-01-28T01:27:49.2274731-08:00</DateTimeSang>
+    <Title>Wonderboy</Title>
+    <Artist>Tenacious D</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SUN\Tenacious D - Wonderboy.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>8.48862385321101</StartPoint>
+    <EndPoint>247.78697247706424</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

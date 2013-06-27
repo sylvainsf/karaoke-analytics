@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-04-11T23:18:50.6100793-07:00</DateTimeSang>
+    <Title>I Love Rock 'N Roll</Title>
+    <Artist>Jett, Joan</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Supercore 2006\Jett, Joan - I Love Rock 'N Roll.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-03-11T23:09:21.8310887-08:00</DateTimeSang>
+    <Title>Bed Intruder Song</Title>
+    <Artist>Dodson, Antoine</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 November\11-27\Dodson, Antoine - Bed Intruder Song.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-03-12T01:11:35.3885442-08:00</DateTimeSang>
+    <Title>Cruisin' (Feat. Gwyneth Paltrow)</Title>
+    <Artist>Lewis, Huey</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Lewis, Huey - Cruisin' (Feat. Gwyneth Paltrow).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>6.7735430318916556</StartPoint>
+    <EndPoint>301.42266491917866</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

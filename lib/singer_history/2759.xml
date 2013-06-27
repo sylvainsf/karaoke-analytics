@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-08-21T22:46:13.8283935-07:00</DateTimeSang>
+    <Title>Sweet Child O' Mine</Title>
+    <Artist>Guns 'N' Roses</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC\headbangers hits\Guns 'N' Roses - Sweet Child O' Mine.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-09-05T01:35:51.2489028-07:00</DateTimeSang>
+    <Title>Basket Case</Title>
+    <Artist>Green Day</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\sgb\Green Day - Basket Case.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>8.13302752293578</StartPoint>
+    <EndPoint>185.85474006116209</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-11-13T22:39:35.9445625-08:00</DateTimeSang>
+    <Title>Fat Bottom Girls</Title>
+    <Artist>Queen</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SC\Queen - Fat Bottom Girls.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

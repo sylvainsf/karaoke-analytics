@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-12-07T01:04:44.7022983-08:00</DateTimeSang>
+    <Title>Summer Nights (Feat. John Travolta)</Title>
+    <Artist>Newton-John, Olivia</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC\Newton-John, Olivia - Summer Nights (Feat. John Travolta).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>4.3664032952630594</StartPoint>
+    <EndPoint>214.961392997566</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-07-12T01:13:22.0048378-07:00</DateTimeSang>
+    <Title>Here Comes Your Man</Title>
+    <Artist>Pixies, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC\Pixies, The - Here Comes Your Man.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-02-23T22:43:41.92442-08:00</DateTimeSang>
+    <Title>MMM Bop</Title>
+    <Artist>Hanson</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Hanson - MMM Bop.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-03-09T00:56:23.7222405-08:00</DateTimeSang>
+    <Title>Pretty Fly For A White Guy</Title>
+    <Artist>Offspring, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 February\02-04\Offspring, The - Pretty Fly For A White Guy.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>8.8621406727828749</StartPoint>
+    <EndPoint>196.54961992136305</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-05-18T23:32:37.6924561-07:00</DateTimeSang>
+    <Title>Cumbersome</Title>
+    <Artist>Seven Mary Three</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Dec-SC\dec sc\december sc convert final-1\Seven Mary Three - Cumbersome.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-05-19T00:42:20.7757148-07:00</DateTimeSang>
+    <Title>Knockin' Da Boots</Title>
+    <Artist>H-Town</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2013\1-9\H-Town - Knockin' Da Boots.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

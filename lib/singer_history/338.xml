@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>3</Count>
+    <DateTimeSang>2010-10-29T00:09:27.9135527-07:00</DateTimeSang>
+    <Title>Feed My Frankenstein</Title>
+    <Artist>Cooper, Alice</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC\headbangers hits\Cooper, Alice - Feed My Frankenstein.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-03-06T01:16:08.5660171-08:00</DateTimeSang>
+    <Title>Detachable Penis</Title>
+    <Artist>King Missile</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Dec-SC\dec sc\december sc convert final-2\King Missile - Detachable Penis.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>6.5986748216106017</StartPoint>
+    <EndPoint>219.49276248725789</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2011-06-11T01:26:51.1687528-07:00</DateTimeSang>
+    <Title>F##k Me Pumps</Title>
+    <Artist>Winehouse, Amy</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SBI\Winehouse, Amy - F##k Me Pumps.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>5.71137614678899</StartPoint>
+    <EndPoint>215.35247706422018</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

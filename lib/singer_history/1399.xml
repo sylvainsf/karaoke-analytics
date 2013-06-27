@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-08-16T01:21:21.7455344-07:00</DateTimeSang>
+    <Title>My Humps</Title>
+    <Artist>Black Eyed Peas</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Panorama 2006\Black Eyed Peas - My Humps.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-02-18T00:16:55.1286909-08:00</DateTimeSang>
+    <Title>One Wish</Title>
+    <Artist>Ray J.</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 March\3.07\Ray J. - One Wish.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>10.112293577981651</StartPoint>
+    <EndPoint>265.86905198776759</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

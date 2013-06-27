@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-08-13T01:26:24.1255068-07:00</DateTimeSang>
+    <Title>Can't Help Falling In Love</Title>
+    <Artist>Presley, Elvis</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC Foundations\Presley, Elvis - Can't Help Falling In Love.zip</Path>
+    <Tempo>4</Tempo>
+    <StartPoint>3.5713761467889906</StartPoint>
+    <EndPoint>182.43779816513759</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

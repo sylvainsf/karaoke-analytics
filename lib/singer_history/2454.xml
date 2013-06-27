@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-06-05T01:13:42.9034566-07:00</DateTimeSang>
+    <Title>(I Just) Died In Your Arms</Title>
+    <Artist>Cutting Crew</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Cutting Crew - (I Just) Died In Your Arms.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>6.8669687324471074</StartPoint>
+    <EndPoint>241.1517843100543</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

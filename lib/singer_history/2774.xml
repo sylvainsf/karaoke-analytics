@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-08-27T01:16:00.7018109-07:00</DateTimeSang>
+    <Title>Mr. Brightside</Title>
+    <Artist>Killers, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\Top Hits\Killers, The - Mr. Brightside.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>7.032291081570242</StartPoint>
+    <EndPoint>223.97847094801222</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

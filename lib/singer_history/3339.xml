@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2012-02-03T00:53:53.5195244-08:00</DateTimeSang>
+    <Title>Can't Find My Way Back Home</Title>
+    <Artist>Blind Faith</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\DG\Blind Faith - Can't Find My Way Back Home.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0.94244523497472388</StartPoint>
+    <EndPoint>193.8295699931349</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

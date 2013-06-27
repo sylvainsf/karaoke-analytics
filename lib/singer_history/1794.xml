@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-11-28T21:56:44.1970769-08:00</DateTimeSang>
+    <Title>I Wish You Were Here</Title>
+    <Artist>Incubus</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Incubus - I Wish You Were Here.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>3</Count>
+    <DateTimeSang>2011-11-21T02:00:01.6337213-08:00</DateTimeSang>
+    <Title>Delilah</Title>
+    <Artist>Jones, Tom</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Jones, Tom - Delilah.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>6.3217125382263</StartPoint>
+    <EndPoint>210.280122324159</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>3</Count>
+    <DateTimeSang>2012-05-21T00:48:19.2606747-07:00</DateTimeSang>
+    <Title>Possum Kingdom</Title>
+    <Artist>Toadies</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Dec-SC\dec sc\december sc convert final-1\Toadies - Possum Kingdom.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-11-29T01:03:20.7704842-08:00</DateTimeSang>
+    <Title>Simple Man</Title>
+    <Artist>Lynyrd Skynyrd</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\sgb\Lynyrd Skynyrd - Simple Man.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-11-29T01:51:33.5859438-08:00</DateTimeSang>
+    <Title>Black Hole Sun</Title>
+    <Artist>Soundgarden</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 July\07-01\Soundgarden - Black Hole Sun.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-11-20T23:14:09.2665144-08:00</DateTimeSang>
+    <Title>Somebody Told Me</Title>
+    <Artist>Killers, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SIN\Killers, The - Somebody Told Me.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

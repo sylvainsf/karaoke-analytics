@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-07-25T01:24:18.6439078-07:00</DateTimeSang>
+    <Title>I'm Going Down</Title>
+    <Artist>Blige, Mary J.</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011 April\04-10\Blige, Mary J. - I'm Going Down.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-07-25T01:59:38.8061741-07:00</DateTimeSang>
+    <Title>I'll Stand By You</Title>
+    <Artist>Pretenders, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SUN\Pretenders, The - I'll Stand By You.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>9.037288481141692</StartPoint>
+    <EndPoint>234.57657492354741</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

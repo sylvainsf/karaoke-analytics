@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-05-26T20:49:13.0451365-07:00</DateTimeSang>
+    <Title>depeche mode - waiting for the night - (BKK).mp3</Title>
+    <Artist />
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>F:\karaoke\baby ketten karaoke - 500\depeche mode\depeche mode - waiting for the night - (BKK).mp3</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-05-26T22:28:43.2446124-07:00</DateTimeSang>
+    <Title>Oceania</Title>
+    <Artist>Bjork</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2013\4-02\Bjork - Oceania.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-05-27T01:13:43.0703848-07:00</DateTimeSang>
+    <Title>Titanium (Feat. Sia)</Title>
+    <Artist>Guetta, David</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2012\august\8-18\Guetta, David - Titanium (Feat. Sia).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

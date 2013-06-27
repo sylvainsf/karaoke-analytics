@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-03-27T00:32:08.7479604-07:00</DateTimeSang>
+    <Title>Smooth Operator</Title>
+    <Artist>Sade</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC\Sade - Smooth Operator.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-08-26T23:00:45.4675442-07:00</DateTimeSang>
+    <Title>Notorious</Title>
+    <Artist>Duran Duran</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LG\Duran Duran - Notorious.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-08-27T01:04:45.8002087-07:00</DateTimeSang>
+    <Title>Sex (I'm A...) (Duet Version)</Title>
+    <Artist>Berlin</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 October\10.20\Berlin - Sex (I'm A...) (Duet Version).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0.36080134806216063</StartPoint>
+    <EndPoint>227.3048492791612</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-07-14T00:03:11.5098922-07:00</DateTimeSang>
+    <Title>Boyz In The Hood</Title>
+    <Artist>Dynamite Hack</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\sgb\Dynamite Hack - Boyz In The Hood.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

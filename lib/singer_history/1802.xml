@@ -1,0 +1,87 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2011-03-17T21:06:42.3240369-07:00</DateTimeSang>
+    <Title>Beautiful Day</Title>
+    <Artist>U2</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SBI\U2 - Beautiful Day.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2011-04-08T00:18:36.128331-07:00</DateTimeSang>
+    <Title>Winter Winds</Title>
+    <Artist>Mumford &amp; Sons</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 September\09.12\Mumford &amp; Sons - Winter Winds.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>3</Count>
+    <DateTimeSang>2011-03-17T23:47:52.9734767-07:00</DateTimeSang>
+    <Title>Little Lion Man</Title>
+    <Artist>Mumford &amp; Sons</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 September\09.12\Mumford &amp; Sons - Little Lion Man.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-12-31T00:57:05.3069314-08:00</DateTimeSang>
+    <Title>Sometime Around Midnight</Title>
+    <Artist>The Airborne Toxic Event</Artist>
+    <DiscID>The Airborne Toxic Event</DiscID>
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Music\Music\keith\b\mp3\The Airborne Toxic Event\The Airborne Toxic Event\07 - Sometime Around Midnight.mp3</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>298.97869812145041</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-03-17T21:34:52.9097328-07:00</DateTimeSang>
+    <Title>U2_City_Of_Blinding_Lights_82811.zip</Title>
+    <Artist />
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Desktop\3-9\U2_City_Of_Blinding_Lights_82811.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2011-04-07T21:44:51.177694-07:00</DateTimeSang>
+    <Title>Get On Your Boots</Title>
+    <Artist>U2</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SUN DL\U2 - Get On Your Boots.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-04-07T22:35:11.9134702-07:00</DateTimeSang>
+    <Title>All These Things That I've Done</Title>
+    <Artist>Killers, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SBI\Killers, The - All These Things That I've Done.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

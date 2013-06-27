@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-01-28T01:50:45.8462112-08:00</DateTimeSang>
+    <Title>Like A Prayer</Title>
+    <Artist>Madonna</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SUN DL\Madonna - Like A Prayer.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>7.2411109030768266</StartPoint>
+    <EndPoint>267.06920801348059</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

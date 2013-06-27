@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-01-15T21:56:31.4991509-08:00</DateTimeSang>
+    <Title>Janine_inG.mp3</Title>
+    <Artist />
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Desktop\1-13\Janine_inG.mp3</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-07-29T22:13:05.6534308-07:00</DateTimeSang>
+    <Title>Blame It On The Rain</Title>
+    <Artist>Milli Vanilli</Artist>
+    <DiscID />
+    <Pitch>-1</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011\2011 March\3-9\Milli Vanilli - Blame It On The Rain.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

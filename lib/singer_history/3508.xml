@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-03-18T21:34:19.7592904-07:00</DateTimeSang>
+    <Title>Whatever</Title>
+    <Artist>Scott, Jill</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\Top Hits\Scott, Jill - Whatever.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-03-18T22:44:15.0062448-07:00</DateTimeSang>
+    <Title>Dreamgirls-I Am Changing</Title>
+    <Artist>Broadway-Musicals</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\LG\Broadway-Musicals - Dreamgirls-I Am Changing.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-10-29T00:26:43.6339909-07:00</DateTimeSang>
+    <Title>Until You Come Back To Me (That's What I'm Gonna Do)</Title>
+    <Artist>Franklin, Aretha</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 March\3-17\Franklin, Aretha - Until You Come Back To Me (That's What I'm Gonna Do).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-10-29T01:35:59.3796859-07:00</DateTimeSang>
+    <Title>Boogie Wonderland</Title>
+    <Artist>Earth, Wind, &amp; Fire</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 April\04-15\Earth, Wind, &amp; Fire - Boogie Wonderland.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>6.6242376583660985</StartPoint>
+    <EndPoint>300.45649379017658</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-12-10T01:35:26.4520906-08:00</DateTimeSang>
+    <Title>Titanium (Feat. Sia)</Title>
+    <Artist>Guetta, David</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2012\august\8-18\Guetta, David - Titanium (Feat. Sia).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

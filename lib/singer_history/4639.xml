@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-03-14T00:37:00.7490257-07:00</DateTimeSang>
+    <Title>Wannabe</Title>
+    <Artist>Spice Girls</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Spice Girls - Wannabe.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2013-03-16T21:12:31.7569333-07:00</DateTimeSang>
+    <Title>Pour Some Sugar On Me</Title>
+    <Artist>Def Leppard</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\DG\Def Leppard - Pour Some Sugar On Me.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>10.523261977573904</StartPoint>
+    <EndPoint>291.9061365953109</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

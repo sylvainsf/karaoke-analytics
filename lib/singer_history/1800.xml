@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-11-29T00:42:17.7202419-08:00</DateTimeSang>
+    <Title>I Was Made For Loving You</Title>
+    <Artist>Kiss</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\Doctor Music\Kiss - I Was Made For Loving You.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-11-29T01:54:40.7366482-08:00</DateTimeSang>
+    <Title>Black Hole Sun</Title>
+    <Artist>Anka, Paul</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2010 November\11-10\Anka, Paul - Black Hole Sun.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>179.52640683184589</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

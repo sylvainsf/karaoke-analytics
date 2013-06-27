@@ -1,0 +1,87 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-01-02T01:16:55.4215809-08:00</DateTimeSang>
+    <Title>Bennie And The Jets</Title>
+    <Artist>John, Elton</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\John, Elton - Bennie And The Jets.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>6.2352368470323913</StartPoint>
+    <EndPoint>253.98198090245273</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-07-11T23:10:50.2153395-07:00</DateTimeSang>
+    <Title>Wanted Dead Or Alive</Title>
+    <Artist>Bon Jovi</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Supercore 2006\Bon Jovi - Wanted Dead Or Alive.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2012-03-17T01:15:18.6426884-07:00</DateTimeSang>
+    <Title>What's My Age Again</Title>
+    <Artist>Blink-182</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\sgb\Blink-182 - What's My Age Again.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>143.7556778797146</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-08-26T01:21:04.0265716-07:00</DateTimeSang>
+    <Title>California Love</Title>
+    <Artist>2Pac</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SBI\2Pac - California Love.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>7.2370365862960879</StartPoint>
+    <EndPoint>243.77386395944717</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-08-31T00:56:37.6285078-07:00</DateTimeSang>
+    <Title>Abdul And Cleopatra</Title>
+    <Artist>Richman, Jonathan And The Modern Lovers</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SBI\Richman, Jonathan And The Modern Lovers - Abdul And Cleopatra.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>7.784220183486239</StartPoint>
+    <EndPoint>206.60617737003059</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-03-03T22:35:25.6791021-08:00</DateTimeSang>
+    <Title>Sweet Child O' Mine</Title>
+    <Artist>Guns 'N' Roses</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC\headbangers hits\Guns 'N' Roses - Sweet Child O' Mine.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-03-24T22:10:39.2710914-07:00</DateTimeSang>
+    <Title>Dirty Deeds Done Dirt Cheap</Title>
+    <Artist>AC-DC</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SC\AC-DC - Dirty Deeds Done Dirt Cheap.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

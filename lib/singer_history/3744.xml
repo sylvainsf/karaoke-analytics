@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-05-21T00:03:10.5847473-07:00</DateTimeSang>
+    <Title>sparking diamonds.zip</Title>
+    <Artist />
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Desktop\4-20\sparking diamonds.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2012-05-22T21:13:44.0178266-07:00</DateTimeSang>
+    <Title>Sweet Child O' Mine</Title>
+    <Artist>Guns 'N' Roses</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC\headbangers hits\Guns 'N' Roses - Sweet Child O' Mine.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>7.945058977719528</StartPoint>
+    <EndPoint>359.2301666354615</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

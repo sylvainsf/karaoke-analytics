@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-09-01T01:21:18.4967839-07:00</DateTimeSang>
+    <Title>Wouldn't It Be Nice</Title>
+    <Artist>Beach Boys, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\BS\Beach Boys, The - Wouldn't It Be Nice.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>6.042813455657492</StartPoint>
+    <EndPoint>146.18960244648318</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

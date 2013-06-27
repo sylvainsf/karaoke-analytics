@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-06-03T22:12:28.4565188-07:00</DateTimeSang>
+    <Title>Blake_Shelton_-_Playboys_Of_The_Southwestern_World_-_G16248.ZIP</Title>
+    <Artist />
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Desktop\5-30\Blake_Shelton_-_Playboys_Of_The_Southwestern_World_-_G16248.ZIP</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-06-03T23:17:37.7711188-07:00</DateTimeSang>
+    <Title>My Kinda Party</Title>
+    <Artist>Aldean, Jason</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011 April\04-09\Aldean, Jason - My Kinda Party.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-06-04T00:34:57.0054678-07:00</DateTimeSang>
+    <Title>Rodeo, The</Title>
+    <Artist>Brooks, Garth</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Dec-SC\December SC Country\Brooks, Garth - Rodeo, The.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>5.0862385321100918</StartPoint>
+    <EndPoint>209.21394495412844</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

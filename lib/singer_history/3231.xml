@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-01-05T22:09:27.1703079-08:00</DateTimeSang>
+    <Title>Animals</Title>
+    <Artist>Nickelback</Artist>
+    <DiscID />
+    <Pitch>-1</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SC\Nickelback - Animals.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-01-05T23:22:02.0733941-08:00</DateTimeSang>
+    <Title>Poison</Title>
+    <Artist>Cooper, Alice</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Dec-SC\dec sc\december sc convert final 3\Cooper, Alice - Poison.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-01-06T00:44:40.3249898-08:00</DateTimeSang>
+    <Title>ZZ_Top_Gimme_All_Your_Lovin_96234.zip</Title>
+    <Artist />
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Desktop\12-22\ZZ_Top_Gimme_All_Your_Lovin_96234.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-07-19T22:40:44.09072-07:00</DateTimeSang>
+    <Title>All My Friends</Title>
+    <Artist>LCD Soundsystem</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011\2011 December\12-18\LCD Soundsystem - All My Friends.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-07-19T23:59:25.1193409-07:00</DateTimeSang>
+    <Title>One, The</Title>
+    <Artist>U2</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LG\U2 - One, The.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>9.0550458715596331</StartPoint>
+    <EndPoint>262.16513761467888</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

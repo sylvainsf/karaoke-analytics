@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-02-28T23:52:12.707129-08:00</DateTimeSang>
+    <Title>You've Got The (Dirty) Love (Feat. Dizzee Rascal)</Title>
+    <Artist>Florence &amp; The Machine</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011\2011 March\3-9\Florence &amp; The Machine - You've Got The (Dirty) Love (Feat. Dizzee Rascal).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-08-31T22:40:05.5508181-07:00</DateTimeSang>
+    <Title>The_Band_Perry_If_I_Die_Young_86422.zip</Title>
+    <Artist />
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Desktop\8-31\The_Band_Perry_If_I_Die_Young_86422.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

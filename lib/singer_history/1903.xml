@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-01-14T23:01:22.9505887-08:00</DateTimeSang>
+    <Title>China Girl</Title>
+    <Artist>Bowie, David</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Dec-SC\dec sc\december sc convert final-1\Bowie, David - China Girl.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-01-15T00:11:13.2912625-08:00</DateTimeSang>
+    <Title>Baby One More Time</Title>
+    <Artist>Spears, Britney</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\sgb\Spears, Britney - Baby One More Time.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-01-21T00:56:05.0032582-08:00</DateTimeSang>
+    <Title>I Wish You Were Here</Title>
+    <Artist>Incubus</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Incubus - I Wish You Were Here.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>5.9088660051176429</StartPoint>
+    <EndPoint>214.109497597204</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-02-18T00:43:58.580547-08:00</DateTimeSang>
+    <Title>Because I Got High</Title>
+    <Artist>Afroman</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Dec-SC\dec sc\december sc convert final-2\Afroman - Because I Got High.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>6.3902752293577985</StartPoint>
+    <EndPoint>213.56972477064221</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

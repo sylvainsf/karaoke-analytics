@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-07-08T23:55:26.5609187-07:00</DateTimeSang>
+    <Title>Take It Easy</Title>
+    <Artist>Eagles</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\BS\Eagles - Take It Easy.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-03-01T01:40:58.40725-08:00</DateTimeSang>
+    <Title>Undone-The Sweater Song</Title>
+    <Artist>Weezer</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC new adds\Weezer - Undone-The Sweater Song.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>6.0036697247706421</StartPoint>
+    <EndPoint>246.55070336391435</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

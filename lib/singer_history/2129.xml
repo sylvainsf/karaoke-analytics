@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-03-18T00:58:26.5986262-07:00</DateTimeSang>
+    <Title>Sussudio</Title>
+    <Artist>Collins, Phil</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\BS\Collins, Phil - Sussudio.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>6.2148661299382146</StartPoint>
+    <EndPoint>262.26735068339264</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

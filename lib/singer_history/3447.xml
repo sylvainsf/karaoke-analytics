@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-03-01T22:36:44.1407546-08:00</DateTimeSang>
+    <Title>Sweet Child O' Mine</Title>
+    <Artist>Guns 'N' Roses</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC\headbangers hits\Guns 'N' Roses - Sweet Child O' Mine.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2012-03-01T23:44:50.1354602-08:00</DateTimeSang>
+    <Title>That's The Way Love Goes</Title>
+    <Artist>Jackson, Janet</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Jackson, Janet - That's The Way Love Goes.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-03-02T01:27:04.5983314-08:00</DateTimeSang>
+    <Title>Party Rock Anthem (Feat. Lauren Bennett And Goonrock)</Title>
+    <Artist>LMFAO</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011\2011 June\6-10\LMFAO - Party Rock Anthem (Feat. Lauren Bennett And Goonrock).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>8.0998364850527373</StartPoint>
+    <EndPoint>270.27875429070713</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

@@ -1,0 +1,176 @@
+<?xml version="1.0" standalone="yes"?>
+<dsShow xmlns="http://tempuri.org/dsShow.xsd">
+  <dtRotation>
+    <Place>1</Place>
+    <Singer>niner</Singer>
+    <Qty>0</Qty>
+    <Sang>4</Sang>
+    <UpNext>false</UpNext>
+    <Status />
+  </dtRotation>
+  <dtRotation>
+    <Place>4</Place>
+    <Singer>rosie</Singer>
+    <Qty>0</Qty>
+    <Sang>3</Sang>
+    <UpNext>false</UpNext>
+    <Status />
+  </dtRotation>
+  <dtRotation>
+    <Place>3</Place>
+    <Singer>sylvain</Singer>
+    <Qty>0</Qty>
+    <Sang>4</Sang>
+    <UpNext>false</UpNext>
+    <Status />
+  </dtRotation>
+  <dtRotation>
+    <Place>7</Place>
+    <Singer>r-e-l</Singer>
+    <Qty>0</Qty>
+    <Sang>3</Sang>
+    <UpNext>false</UpNext>
+    <Status />
+  </dtRotation>
+  <dtRotation>
+    <Place>18</Place>
+    <Singer>albert</Singer>
+    <Qty>0</Qty>
+    <Sang>4</Sang>
+    <UpNext>false</UpNext>
+    <Status />
+  </dtRotation>
+  <dtRotation>
+    <Place>9</Place>
+    <Singer>dj</Singer>
+    <Qty>0</Qty>
+    <Sang>3</Sang>
+    <UpNext>false</UpNext>
+    <Status />
+  </dtRotation>
+  <dtRotation>
+    <Place>14</Place>
+    <Singer>rowena</Singer>
+    <Qty>0</Qty>
+    <Sang>3</Sang>
+    <UpNext>false</UpNext>
+    <Status />
+  </dtRotation>
+  <dtRotation>
+    <Place>16</Place>
+    <Singer>cathy</Singer>
+    <Qty>0</Qty>
+    <Sang>3</Sang>
+    <UpNext>false</UpNext>
+    <Status />
+  </dtRotation>
+  <dtRotation>
+    <Place>20</Place>
+    <Singer>sam</Singer>
+    <Qty>0</Qty>
+    <Sang>2</Sang>
+    <UpNext>false</UpNext>
+    <Status />
+  </dtRotation>
+  <dtRotation>
+    <Place>2</Place>
+    <Singer>alex</Singer>
+    <Qty>0</Qty>
+    <Sang>2</Sang>
+    <UpNext>false</UpNext>
+    <Status />
+  </dtRotation>
+  <dtRotation>
+    <Place>6</Place>
+    <Singer>karen</Singer>
+    <Qty>0</Qty>
+    <Sang>2</Sang>
+    <UpNext>false</UpNext>
+    <Status />
+  </dtRotation>
+  <dtRotation>
+    <Place>8</Place>
+    <Singer>rodney</Singer>
+    <Qty>0</Qty>
+    <Sang>2</Sang>
+    <UpNext>false</UpNext>
+    <Status />
+  </dtRotation>
+  <dtRotation>
+    <Place>11</Place>
+    <Singer>yola</Singer>
+    <Qty>0</Qty>
+    <Sang>1</Sang>
+    <UpNext>true</UpNext>
+    <Status>Up Next</Status>
+  </dtRotation>
+  <dtRotation>
+    <Place>17</Place>
+    <Singer>katrice</Singer>
+    <Qty>0</Qty>
+    <Sang>2</Sang>
+    <UpNext>false</UpNext>
+    <Status />
+  </dtRotation>
+  <dtRotation>
+    <Place>12</Place>
+    <Singer>j-mic</Singer>
+    <Qty>0</Qty>
+    <Sang>2</Sang>
+    <UpNext>false</UpNext>
+    <Status />
+  </dtRotation>
+  <dtRotation>
+    <Place>13</Place>
+    <Singer>kevin</Singer>
+    <Qty>0</Qty>
+    <Sang>2</Sang>
+    <UpNext>false</UpNext>
+    <Status />
+  </dtRotation>
+  <dtRotation>
+    <Place>15</Place>
+    <Singer>zach</Singer>
+    <Qty>0</Qty>
+    <Sang>2</Sang>
+    <UpNext>false</UpNext>
+    <Status />
+  </dtRotation>
+  <dtRotation>
+    <Place>19</Place>
+    <Singer>john a</Singer>
+    <Qty>0</Qty>
+    <Sang>1</Sang>
+    <UpNext>false</UpNext>
+    <Status />
+  </dtRotation>
+  <dtRotation>
+    <Place>5</Place>
+    <Singer>chris</Singer>
+    <Qty>0</Qty>
+    <Sang>1</Sang>
+    <UpNext>false</UpNext>
+    <Status />
+  </dtRotation>
+  <dtRotation>
+    <Place>10</Place>
+    <Singer>albert?</Singer>
+    <Qty>0</Qty>
+    <Sang>2</Sang>
+    <UpNext>false</UpNext>
+    <Status />
+  </dtRotation>
+  <dtNowPlaying>
+    <Singer>albert?</Singer>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC\Temptations, The - My Girl.zip</Path>
+    <Title>My Girl</Title>
+    <Artist>Temptations, The</Artist>
+    <DiscID />
+    <Time>200.90666666666667</Time>
+    <TimeMS>03:20</TimeMS>
+    <Pitch>0</Pitch>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtNowPlaying>
+</dsShow>

@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2010-01-21T23:49:43.2675946-08:00</DateTimeSang>
+    <Title>Go Your Own Way</Title>
+    <Artist>Fleetwood Mac</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Desktop\karaoke fix\dec sc\december sc convert final-2\Fleetwood Mac - Go Your Own Way.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-05-12T23:54:47.6156233-07:00</DateTimeSang>
+    <Title>Don't You Want Me</Title>
+    <Artist>Human League, The</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Human League, The - Don't You Want Me.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-10-22T00:49:32.956056-07:00</DateTimeSang>
+    <Title>Edge Of Seventeen</Title>
+    <Artist>Nicks, Stevie</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\Dec-SC\dec sc\december sc convert final-2\Nicks, Stevie - Edge Of Seventeen.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>6.9091880421893528</StartPoint>
+    <EndPoint>332.7039780315796</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-09-04T22:54:37.0126244-07:00</DateTimeSang>
+    <Title>Picture (Feat. Sheryl Crow)</Title>
+    <Artist>Kid Rock</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Kid Rock - Picture (Feat. Sheryl Crow).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-09-04T23:44:07.4235222-07:00</DateTimeSang>
+    <Title>Brokenhearted</Title>
+    <Artist>Karmin</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2012\august\8-30\Karmin - Brokenhearted.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-09-05T00:32:53.5158851-07:00</DateTimeSang>
+    <Title>I Feel The Earth Move</Title>
+    <Artist>King, Carole</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\King, Carole - I Feel The Earth Move.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

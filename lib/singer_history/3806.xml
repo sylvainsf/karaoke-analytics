@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2012-06-08T01:22:42.9119505-07:00</DateTimeSang>
+    <Title>Rich Girl</Title>
+    <Artist>Hall &amp; Oates</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\CHB\Hall &amp; Oates - Rich Girl.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>5.8811458528365481</StartPoint>
+    <EndPoint>148.49893278412282</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

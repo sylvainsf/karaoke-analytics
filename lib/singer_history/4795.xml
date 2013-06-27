@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-05-16T23:11:05.9007027-07:00</DateTimeSang>
+    <Title>Booty Work (One Cheek At A Time) (Feat. Feat. Teddy Penderazdown &amp; Joey Galaxy)</Title>
+    <Artist>T-Pain</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2012\september\9-23\T-Pain - Booty Work (One Cheek At A Time) (Feat. Feat. Teddy Penderazdown &amp; Joey Galaxy).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-05-17T00:06:55.1292676-07:00</DateTimeSang>
+    <Title>Crazy Rap</Title>
+    <Artist>Afroman</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\betterversion\Afroman - Crazy Rap.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

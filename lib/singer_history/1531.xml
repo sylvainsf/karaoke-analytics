@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-01-14T00:58:54.8276648-08:00</DateTimeSang>
+    <Title>Never Let Me Down Again</Title>
+    <Artist>Depeche Mode</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011\2011 September\9-18\Depeche Mode - Never Let Me Down Again.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>2</Count>
+    <DateTimeSang>2013-01-14T19:55:10.6659402-08:00</DateTimeSang>
+    <Title>Behind The Wheel</Title>
+    <Artist>Depeche Mode</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\STTW\Depeche Mode - Behind The Wheel.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>7.0429357798165144</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

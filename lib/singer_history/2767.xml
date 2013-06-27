@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-08-26T21:49:07.0480173-07:00</DateTimeSang>
+    <Title>Heartbreaker</Title>
+    <Artist>Benatar, Pat</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\VENUE\Benatar, Pat - Heartbreaker.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-08-26T22:50:03.662835-07:00</DateTimeSang>
+    <Title>Lovin', Touchin', Squeezin'</Title>
+    <Artist>Journey</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\SC\Journey - Lovin', Touchin', Squeezin'.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-08-27T00:53:35.3278599-07:00</DateTimeSang>
+    <Title>Reach Up For The Sunrise</Title>
+    <Artist>Duran Duran</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LG\Duran Duran - Reach Up For The Sunrise.zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>1.96954128440367</StartPoint>
+    <EndPoint>205.16055045871559</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>

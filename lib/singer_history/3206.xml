@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSingerHistory xmlns="http://tempuri.org/dsSingerHistory.xsd">
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2011-12-19T01:03:22.7629178-08:00</DateTimeSang>
+    <Title>Everybody (Backstreet's Back)</Title>
+    <Artist>Backstreet Boys</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\LABELED 3\SC\Backstreet Boys - Everybody (Backstreet's Back).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+  <dtSingerHistory>
+    <Count>1</Count>
+    <DateTimeSang>2013-02-28T23:45:31.4563401-08:00</DateTimeSang>
+    <Title>My D##k (Feat. Dirt Nasty &amp; Andre Legacy)</Title>
+    <Artist>Avalon, Mickey</Artist>
+    <DiscID />
+    <Pitch>0</Pitch>
+    <Path>C:\Users\Karaoke\Music\karaoke\2011\2011 July\07-08\Avalon, Mickey - My D##k (Feat. Dirt Nasty &amp; Andre Legacy).zip</Path>
+    <Tempo>0</Tempo>
+    <StartPoint>0</StartPoint>
+    <EndPoint>0</EndPoint>
+  </dtSingerHistory>
+</dsSingerHistory>
